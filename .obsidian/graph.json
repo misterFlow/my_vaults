@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:programming/42",
+      "color": {
+        "a": 1,
+        "rgb": 64511
+      }
+    },
+    {
+      "query": "path:\"programming/C code\"",
+      "color": {
+        "a": 1,
+        "rgb": 3142151
+      }
+    },
+    {
+      "query": "path:programming/environement",
+      "color": {
+        "a": 1,
+        "rgb": 15997466
+      }
+    },
+    {
+      "query": "path:programming",
+      "color": {
+        "a": 1,
+        "rgb": 15791105
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -1.4,
+  "nodeSizeMultiplier": 2.87216467696629,
+  "lineSizeMultiplier": 3.96210498595506,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 15.2095588235294,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1,
+  "close": false
+}

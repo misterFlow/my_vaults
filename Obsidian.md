@@ -1,0 +1,1 @@
+Ctrl + p = comand pallet

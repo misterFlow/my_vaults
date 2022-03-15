@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "02c212a59efaa486",
+    "type": "split",
+    "children": [
+      {
+        "id": "dba233d4c633df48",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "programming/42/42.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c27990a5ef98620a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a3761c54c333cdc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bee91e28ef1a9d91",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9791372b1bdfd523",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eff5a9a9fee75209",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cbd2c990adaddbd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4c0af76eb08c129",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "programming/42/42.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "dba233d4c633df48",
+  "lastOpenFiles": [
+    "programming/42/42.md",
+    "programming/42/isalpha.md",
+    "programming/environement/Docker.md",
+    "programming/C code/Ternary Operators.md",
+    "programming/C code/pointers.md",
+    "programming/C code/Keyword.md",
+    "programming/C code/C code.md",
+    "programming/42/printf.md"
+  ]
+}
