@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/42/42.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/42/42.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,13 +88,15 @@
   },
   "active": "dba233d4c633df48",
   "lastOpenFiles": [
+    "README.md",
+    "programming/42/Makefile.md",
+    "programming/environement/Github.md",
     "programming/42/42.md",
     "programming/42/isalpha.md",
     "programming/environement/Docker.md",
     "programming/C code/Ternary Operators.md",
     "programming/C code/pointers.md",
     "programming/C code/Keyword.md",
-    "programming/C code/C code.md",
-    "programming/42/printf.md"
+    "programming/C code/C code.md"
   ]
 }
