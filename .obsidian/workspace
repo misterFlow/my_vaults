@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/42/Born2beRoot.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/42/Born2beRoot.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "dba233d4c633df48",
   "lastOpenFiles": [
+    "README.md",
+    "programming/environement/Github.md",
     "programming/42/Born2beRoot.md",
     "programming/pictures/Screen Shot 2022-03-17 at 3.48.06 PM.png",
     "programming/42/holygraph42.md",
@@ -95,8 +97,6 @@
     "Screen Shot 2022-03-17 at 3.18.10 PM 1.png",
     "Screen Shot 2022-03-17 at 3.18.10 PM.png",
     "Pasted image 20220317154217.png",
-    "Pasted image 20220317154135.png",
-    "Pasted image 20220317153559.png",
-    "programming/pictures/Pasted image 20220317150501.png"
+    "Pasted image 20220317154135.png"
   ]
 }
