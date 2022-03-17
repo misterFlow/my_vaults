@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "source"
+            "file": "programming/environement/Github.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "programming/environement/Github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "dba233d4c633df48",
   "lastOpenFiles": [
-    "README.md",
     "programming/environement/Github.md",
+    "README.md",
     "programming/42/Born2beRoot.md",
     "programming/pictures/Screen Shot 2022-03-17 at 3.48.06 PM.png",
     "programming/42/holygraph42.md",
