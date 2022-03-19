@@ -1,4 +1,7 @@
-[[42]]
+[[42]] [[Born2beRoot]]
+
+Tasks during evaluation :
+![[Born2BeRoot.pdf]]
 
 Github for step by step procedure :
 https://baigal.medium.com/born2beroot-e6e26dfb50ac
