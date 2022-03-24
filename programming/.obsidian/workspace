@@ -1,17 +1,16 @@
 {
   "main": {
-    "id": "02c212a59efaa486",
+    "id": "2bb9dda48883a751",
     "type": "split",
     "children": [
       {
-        "id": "8e71c318f3a7719b",
+        "id": "41c1d93e47c7c990",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/42/42.md",
-            "mode": "source",
-            "source": false
+            "file": "42/42.md",
+            "mode": "source"
           }
         }
       }
@@ -19,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c27990a5ef98620a",
+    "id": "ffbe02d8ac34ec49",
     "type": "split",
     "children": [
       {
-        "id": "7a3761c54c333cdc",
+        "id": "22b2795f82834690",
         "type": "tabs",
         "children": [
           {
-            "id": "bee91e28ef1a9d91",
+            "id": "1a7445a8a145e1c9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +34,7 @@
             }
           },
           {
-            "id": "9791372b1bdfd523",
+            "id": "a8a008dcc4bb7a54",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -56,20 +55,20 @@
     "width": 300
   },
   "right": {
-    "id": "eff5a9a9fee75209",
+    "id": "6792bd17575fe6ac",
     "type": "split",
     "children": [
       {
-        "id": "2cbd2c990adaddbd",
+        "id": "96e900e0ca06b9ae",
         "type": "tabs",
         "children": [
           {
-            "id": "a4c0af76eb08c129",
+            "id": "ff035a3f8681681f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/42/42.md",
+                "file": "42/42.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +86,8 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8e71c318f3a7719b",
+  "active": "41c1d93e47c7c990",
   "lastOpenFiles": [
-    "programming/42/42.md",
-    "PMI CAPM/CAPM.md",
-    "README.md",
-    "programming/42/Born2BeRoot/from Skan.md",
-    "programming/42/Born2BeRoot/Born2beRoot.md",
-    "programming/environement/PowerShell.md",
-    "programming/environement/Github.md",
-    "programming/pdf/LINUX Gestion de la machine.pdf",
-    "programming/42/Born2BeRoot/Virtual Machine.md",
-    "programming/pictures/Screen Shot 2022-03-17 at 3.48.06 PM.png"
+    "42/42.md"
   ]
 }

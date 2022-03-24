@@ -1,4 +1,6 @@
 {
   "defaultViewMode": "source",
-  "readableLineLength": false
+  "readableLineLength": false,
+  "legacyEditor": false,
+  "livePreview": true
 }
