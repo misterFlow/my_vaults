@@ -4,7 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "542c327700678bce",
+        "id": "dba233d4c633df48",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "programming/42/Born2BeRoot/from Skan.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "7f7541a7e0b12dba",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -87,17 +100,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "542c327700678bce",
+  "active": "7f7541a7e0b12dba",
   "lastOpenFiles": [
     "README.md",
-    "conflict-files-obsidian-git.md",
-    "PMI CAPM/CAPM.md",
-    "programming/environement/Github.md",
-    "programming/42/42.md",
-    "programming/42/Born2BeRoot/from Skan.md",
+    "programming/42/Born2BeRoot/myNotes.md",
     "programming/42/Born2BeRoot/Born2beRoot.md",
+    "programming/42/Born2BeRoot/from Skan.md",
+    "programming/environement/Github.md",
     "programming/environement/PowerShell.md",
     "programming/pdf/LINUX Gestion de la machine.pdf",
-    "programming/42/Born2BeRoot/Virtual Machine.md"
+    "programming/42/Born2BeRoot/Virtual Machine.md",
+    "programming/pictures/Screen Shot 2022-03-17 at 3.48.06 PM.png",
+    "programming/42/holygraph42.md"
   ]
 }
