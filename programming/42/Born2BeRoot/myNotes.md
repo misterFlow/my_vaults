@@ -1,4 +1,8 @@
 [[Born2beRoot]]
+
+Logical Volume Manager :
+In [Linux](https://en.wikipedia.org/wiki/Linux "Linux"), **Logical Volume Manager** (**LVM**) is a [device mapper](https://en.wikipedia.org/wiki/Device_mapper "Device mapper") framework that provides [logical volume management](https://en.wikipedia.org/wiki/Logical_volume_management "Logical volume management") for the [Linux kernel](https://en.wikipedia.org/wiki/Linux_kernel "Linux kernel"). Most modern [Linux distributions](https://en.wikipedia.org/wiki/Linux_distribution "Linux distribution") are LVM-aware to the point of being able to have their [root file systems](https://en.wikipedia.org/wiki/Root_file_system "Root file system") on a [logical volume](https://en.wikipedia.org/wiki/Logical_volume "Logical volume").
+
 To see the partition:
 ```js
 lsblk
