@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/42/Born2BeRoot/myNotes.md",
+            "file": "programming/environement/WSL2.md",
             "mode": "preview",
             "source": false
           }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/42/Born2BeRoot/myNotes.md",
+                "file": "programming/environement/WSL2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,6 +102,7 @@
   },
   "active": "7f7541a7e0b12dba",
   "lastOpenFiles": [
+    "programming/environement/WSL2.md",
     "programming/42/Born2BeRoot/myNotes.md",
     "programming/42/Born2BeRoot/Born2beRoot.md",
     "programming/environement/Containers.md",
@@ -110,7 +111,6 @@
     "programming/42/Born2BeRoot/from Skan.md",
     "programming/environement/Github.md",
     "programming/environement/PowerShell.md",
-    "programming/pdf/LINUX Gestion de la machine.pdf",
-    "programming/42/Born2BeRoot/Virtual Machine.md"
+    "programming/pdf/LINUX Gestion de la machine.pdf"
   ]
 }
