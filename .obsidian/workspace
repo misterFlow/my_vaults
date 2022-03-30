@@ -22,8 +22,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "source",
+            "file": "programming/42/Born2BeRoot/myNotes.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "programming/42/Born2BeRoot/myNotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,8 +102,8 @@
   },
   "active": "7f7541a7e0b12dba",
   "lastOpenFiles": [
-    "README.md",
     "programming/42/Born2BeRoot/myNotes.md",
+    "README.md",
     "programming/42/Born2BeRoot/Born2beRoot.md",
     "programming/42/Born2BeRoot/from Skan.md",
     "programming/environement/Github.md",
