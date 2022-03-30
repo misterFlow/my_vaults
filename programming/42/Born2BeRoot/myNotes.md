@@ -50,7 +50,7 @@ sudo apt-get install zsh
 zsh --version
 sh -c "$(wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
 ```
-salut
+
 <u>**Install SSH and configure SSH service:**</u>
 The [Secure Shell Protocol](https://en.wikipedia.org/wiki/Secure_Shell) is a cryptographic network protocol for operating network services securely over an unsecured network. Its most notable applications are remote login and command-line execution.
 ```js
