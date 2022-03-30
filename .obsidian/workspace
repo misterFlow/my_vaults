@@ -20,8 +20,12 @@
         "id": "7f7541a7e0b12dba",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "programming/42/Born2BeRoot/myNotes.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -78,6 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "programming/42/Born2BeRoot/myNotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
   "active": "7f7541a7e0b12dba",
   "lastOpenFiles": [
     "programming/42/Born2BeRoot/myNotes.md",
+    "programming/environement/Docker.md",
     "programming/42/Born2BeRoot/Born2beRoot.md",
     "README.md",
     "programming/42/Born2BeRoot/from Skan.md",
@@ -105,7 +111,6 @@
     "programming/environement/PowerShell.md",
     "programming/pdf/LINUX Gestion de la machine.pdf",
     "programming/42/Born2BeRoot/Virtual Machine.md",
-    "programming/pictures/Screen Shot 2022-03-17 at 3.48.06 PM.png",
-    "programming/42/holygraph42.md"
+    "programming/pictures/Screen Shot 2022-03-17 at 3.48.06 PM.png"
   ]
 }
