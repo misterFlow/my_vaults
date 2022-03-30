@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/environement/WSL2.md",
+            "file": "programming/42/Born2BeRoot/myNotes.md",
             "mode": "preview",
             "source": false
           }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/environement/WSL2.md",
+                "file": "programming/42/Born2BeRoot/myNotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,8 +102,8 @@
   },
   "active": "7f7541a7e0b12dba",
   "lastOpenFiles": [
-    "programming/environement/WSL2.md",
     "programming/42/Born2BeRoot/myNotes.md",
+    "programming/environement/WSL2.md",
     "programming/42/Born2BeRoot/Born2beRoot.md",
     "programming/environement/Containers.md",
     "programming/environement/Docker.md",
