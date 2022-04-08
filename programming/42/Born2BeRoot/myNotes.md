@@ -142,7 +142,7 @@ sudo ufw delete (rule number to be deleted)
 [pam_unix.so](http://manpages.ubuntu.com/manpages/bionic/man8/pam_unix.8.html) is a module for traditional password authentification.
 [pam_pwquality.so](http://manpages.ubuntu.com/manpages/bionic/man8/pam_pwquality.8.html) is a module to perform password quality checking.
 [pam_deny.so](http://manpages.ubuntu.com/manpages/bionic/en/man8/pam_deny.8.html) is the locking-out PAM module.
-[pam_permit.so](http://manpages.ubuntu.com/manpages/bionic/en/man8/pam_permit.8.html) is the promiscuous module tha always permit access. This is dangerous.
+[pam_permit.so](http://manpages.ubuntu.com/manpages/bionic/en/man8/pam_permit.8.html) is the promiscuous module that always permit access. This is dangerous.
 Install password quality checking library:
 ```js
 sudo apt-get install libpam-pwquality
