@@ -247,7 +247,7 @@ chage -l your_new_username
 ```
 "chage" stands for "change age" and is used to change or list "-l" the password expiry information of one user
 
-<u>**Configuring sudores group:**</u>
+<u>**Configuring sudoers group:**</u>
 ```js
 sudo nano /etc/sudoers
 ```
