@@ -15,7 +15,8 @@ un des intérêts est de pouvoir s'abstraire des caractéristiques de la machine
 Security-Enhanced Linux est un module de sécurité Linux définissant une politique de contrôle d'accès obligatoire aux éléments d'un système Linux.
 Dandified YUM est un gestionnaire de paquet.
 - Si l'étudiant évalué a choisi Debian, la différence entre aptitude et apt, et ce qu'est APPArmor :
-Aptitude est une interface du gestionnaire de paquet APT 
+Aptitude est une interface du gestionnaire de paquet APT.
+apt est le programme de gestion de paquets 
 ![[Pasted image 20220409191953.png]]
 
 Pendant la soutenance, un script doit afficher des informations toutes les 10 minutes. Son fonctionnement sera vérifié en détail ultérieurement. Si les explications ne sont pas claires, l'évaluation s'arrête ici.
