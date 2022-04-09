@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/42/Born2BeRoot/Born2beRoot.md",
+            "file": "programming/42/Born2BeRoot/exam.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/42/Born2BeRoot/Born2beRoot.md",
+                "file": "programming/42/Born2BeRoot/exam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "7f7541a7e0b12dba",
   "lastOpenFiles": [
+    "programming/42/Born2BeRoot/exam.md",
     "programming/42/Born2BeRoot/Born2beRoot.md",
-    "exam.md",
-    "programming/42/Born2BeRoot/myNotes.md",
-    "programming/environement/WSL2.md",
-    "programming/environement/Containers.md",
-    "programming/environement/Docker.md",
-    "README.md",
     "programming/42/Born2BeRoot/from Skan.md",
-    "programming/environement/Github.md",
-    "programming/environement/PowerShell.md"
+    "programming/42/Born2BeRoot/myNotes.md",
+    "programming/pictures/Screen Shot 2022-03-17 at 3.49.30 PM.png",
+    "programming/pictures/Pasted image 20220317150501.png",
+    "programming/pictures/Screen Shot 2022-03-17 at 3.48.06 PM.png",
+    "programming/pictures/Pasted image 20220223114151.png",
+    "programming/pictures/Screen Shot 2022-03-18 at 4.05.17 PM.png",
+    "programming/pictures/Screen Shot 2022-03-18 at 4.09.25 PM.png"
   ]
 }

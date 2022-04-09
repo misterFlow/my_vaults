@@ -7,6 +7,7 @@ L'étudiant évalué doit vous expliquer simplement :
 - Comment fonctionne une machine virtuelle: une machine virtuelle est une illusion d'un appareil informatique créée par un logiciel d'émulation ou instanciée par un hyperviseur. Le logiciel d'émulation simule la présence de ressources matérielles et logicielles (mémoire, processeur, disque dur, système d'exploitation, pilotes) permettant d'exécuter des programmes dans les mêmes conditions que celles de la machine simulée. Un des intérêts est de pouvoir s'abstraire des caractéristiques de la machine physique utilisée, forte portabilité, gestion des systèmes hérités, sécurité d'isolation des applications, émulation de plusieurs machines sur une seule.
 - Son choix de système d'exploitation
 - Les différences fondamentales entre CentOS et Debian
+
 - Le but de machines virtuelles
 - Si l'étudiant évalué a choisi CentOS : ce que sont SELinux et DNF
 - Si l'étudiant évalué a choisi Debian : la différence entre aptitude et apt, et ce qu'est APPArmor
