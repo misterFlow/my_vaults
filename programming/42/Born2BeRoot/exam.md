@@ -13,6 +13,7 @@ une machine virtuelle est une illusion d'un appareil informatique créée par un
 un des intérêts est de pouvoir s'abstraire des caractéristiques de la machine physique utilisée, forte portabilité, gestion des systèmes hérités, sécurité d'isolation des applications, émulation de plusieurs machines sur une seule.
 - Si l'étudiant évalué a choisi CentOS : ce que sont SELinux et DNF
 Security-Enhanced Linux est un module de sécurité Linux définissant une politique de contrôle d'accès obligatoire aux éléments d'un système Linux.
+Dandified YUM est un gestionnaire de paquet
 - Si l'étudiant évalué a choisi Debian, la différence entre aptitude et apt, et ce qu'est APPArmor :
 
 ![[Pasted image 20220409191953.png]]
