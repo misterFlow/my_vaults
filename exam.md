@@ -6,7 +6,7 @@ L'étudiant évalué devra vous aider lors de la soutenance.
 Assurez-vous que tous les points suivants sont respectés.
 Présentation du projet
 L'étudiant évalué doit vous expliquer simplement :
-- Comment fonctionne une machine virtuelle
+- Comment fonctionne une machine virtuelle: une machine virtuelle est une illusion d'un appareil informatique créée par un logiciel d'émulation
 - Son choix de système d'exploitation
 - Les différences fondamentales entre CentOS et Debian
 - Le but de machines virtuelles
