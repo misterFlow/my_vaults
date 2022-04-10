@@ -185,7 +185,9 @@ PASS_MAX_DAYS  30
 PASS_MIN_DAYS  0
 PASS_WARN_AGE  7
 ```
+
 Reboot the changes:
+
 ```js
 sudo reboot
 ```
