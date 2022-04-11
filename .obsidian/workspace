@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/42/Born2BeRoot/from Skan.md",
+            "file": "programming/42/Born2BeRoot/Born2beRoot.md",
             "mode": "preview",
             "backlinks": false,
             "source": false
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "programming/42/Born2BeRoot/myNotes.md",
             "mode": "source",
             "source": false
           }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "programming/42/Born2BeRoot/Born2beRoot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,12 +100,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7f7541a7e0b12dba",
+  "active": "dba233d4c633df48",
   "lastOpenFiles": [
-    "README.md",
-    "programming/42/Born2BeRoot/myNotes.md",
     "programming/42/Born2BeRoot/Born2beRoot.md",
     "programming/42/Born2BeRoot/from Skan.md",
+    "programming/42/Born2BeRoot/myNotes.md",
+    "README.md",
     "programming/environement/Github.md",
     "programming/environement/PowerShell.md",
     "programming/pdf/LINUX Gestion de la machine.pdf",
