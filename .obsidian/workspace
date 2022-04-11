@@ -4,25 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "dba233d4c633df48",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "programming/42/Born2BeRoot/Born2beRoot.md",
-            "mode": "preview",
-            "backlinks": false,
-            "source": false
-          }
-        }
-      },
-      {
         "id": "7f7541a7e0b12dba",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/42/Born2BeRoot/myNotes.md",
+            "file": "programming/42/Born2BeRoot/Born2beRoot.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "a17cc398a828af89",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "programming/environement/Github.md",
             "mode": "source",
             "source": false
           }
@@ -82,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/42/Born2BeRoot/Born2beRoot.md",
+                "file": "programming/environement/Github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dba233d4c633df48",
+  "active": "a17cc398a828af89",
   "lastOpenFiles": [
+    "programming/environement/Github.md",
+    "conflict-files-obsidian-git.md",
+    "programming/42/Born2BeRoot/myNotes.md",
     "programming/42/Born2BeRoot/Born2beRoot.md",
     "programming/42/Born2BeRoot/from Skan.md",
-    "programming/42/Born2BeRoot/myNotes.md",
     "README.md",
-    "programming/environement/Github.md",
     "programming/environement/PowerShell.md",
     "programming/pdf/LINUX Gestion de la machine.pdf",
     "programming/42/Born2BeRoot/Virtual Machine.md",
-    "programming/pictures/Screen Shot 2022-03-17 at 3.48.06 PM.png",
-    "programming/42/holygraph42.md"
+    "programming/pictures/Screen Shot 2022-03-17 at 3.48.06 PM.png"
   ]
 }

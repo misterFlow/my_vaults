@@ -1,4 +1,8 @@
 [[Born2beRoot]]
+
+Logical Volume Manager :
+In [Linux](https://en.wikipedia.org/wiki/Linux "Linux"), **Logical Volume Manager** (**LVM**) is a [device mapper](https://en.wikipedia.org/wiki/Device_mapper "Device mapper") framework that provides [logical volume management](https://en.wikipedia.org/wiki/Logical_volume_management "Logical volume management") for the [Linux kernel](https://en.wikipedia.org/wiki/Linux_kernel "Linux kernel"). Most modern [Linux distributions](https://en.wikipedia.org/wiki/Linux_distribution "Linux distribution") are LVM-aware to the point of being able to have their [root file systems](https://en.wikipedia.org/wiki/Root_file_system "Root file system") on a [logical volume](https://en.wikipedia.org/wiki/Logical_volume "Logical volume").
+
 To see the partition:
 ```js
 lsblk
@@ -138,7 +142,7 @@ sudo ufw delete (rule number to be deleted)
 [pam_unix.so](http://manpages.ubuntu.com/manpages/bionic/man8/pam_unix.8.html) is a module for traditional password authentification.
 [pam_pwquality.so](http://manpages.ubuntu.com/manpages/bionic/man8/pam_pwquality.8.html) is a module to perform password quality checking.
 [pam_deny.so](http://manpages.ubuntu.com/manpages/bionic/en/man8/pam_deny.8.html) is the locking-out PAM module.
-[pam_permit.so](http://manpages.ubuntu.com/manpages/bionic/en/man8/pam_permit.8.html) is the promiscuous module tha always permit access. This is dangerous.
+[pam_permit.so](http://manpages.ubuntu.com/manpages/bionic/en/man8/pam_permit.8.html) is the promiscuous module that always permit access. This is dangerous.
 Install password quality checking library:
 ```js
 sudo apt-get install libpam-pwquality
@@ -181,7 +185,9 @@ PASS_MAX_DAYS  30
 PASS_MIN_DAYS  0
 PASS_WARN_AGE  7
 ```
+
 Reboot the changes:
+
 ```js
 sudo reboot
 ```
@@ -197,7 +203,7 @@ getent group
 ```
 
 <u>**Create user and assign to group:**</u>
-[/etc/password](https://linuxize.com/post/etc-passwd-file/) file is a text file with one entry per line, representing user account.
+[/etc/passwd](https://linuxize.com/post/etc-passwd-file/) file is a text file with one entry per line, representing user account.
 mark:x:1001:1001:mark,,,:/home/mark:/bin/bash
 [--] - [--] [--] [-----] [--------] [--------]
 |    |   |    |     |         |        |
@@ -243,7 +249,7 @@ chage -l your_new_username
 ```
 "chage" stands for "change age" and is used to change or list "-l" the password expiry information of one user
 
-<u>**Configuring sudores group:**</u>
+<u>**Configuring sudoers group:**</u>
 ```js
 sudo nano /etc/sudoers
 ```
