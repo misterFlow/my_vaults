@@ -16,6 +16,8 @@ Login as root:
 ```js
 su -
 ```
+Switch between users:
+su - target_user_name
 
 <u>**Install sudo:**</u>
 ```js
