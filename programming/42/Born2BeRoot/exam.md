@@ -276,3 +276,6 @@ sudo servcie cron restart
 ![[Screen Shot 2022-04-12 at 7.05.30 PM.png]]
 
 ![[Screen Shot 2022-04-12 at 7.03.53 PM.png]]
+
+uname => Linux
+uname -a => Linux fguy 5.10.0-13-amd64 #1 SMP Debian 5.10.106-1 (2022-03-17) x86_
