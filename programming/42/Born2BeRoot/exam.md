@@ -30,7 +30,8 @@ Chaque fois que vous avez besoin d'aide pour vérifier quelque chose, l'étudian
 - Assurez-vous que la machine ne dispose pas d'un environnement graphique au lancement.
 - Un mot de passe vous sera demandé avant de tenter de vous connecter à cette machine.
 - Enfin, connectez-vous avec un utilisateur avec l'aide de l'étudiant évalué. Cet utilisateur ne doit pas être root. Faites attention au mot de passe choisi, il doit suivre les règles imposées dans le sujet.
-- Vérifiez que le service UFW est démarré avec l'aide de l'évaluateur:
+- Vérifiez que le service UFW est démarré avec l'aide de l'évaluateur :
+- Vérifiez que le service SSH est démarré avec l'aide de l'évaluateur :
 ```js
 sudo systemctl status ssh
 ```
@@ -43,6 +44,5 @@ to restart the SSH service:
 service ssh restart
 ```
 SSH (Secure Shell) est un outils qui crypte l'identite, le mot de passe et les donnees permettant l'administration du systeme de securite, le transfer de fichiers et la communication sur un reseau non securise. SSH est un client, une commande qui permet de se connecter a distance a une machine distante.
-SSHD est un serveur, un demon qui tourne et permet des connections a distance.
-- Vérifiez que le service SSH est démarré avec l'aide de l'évaluateur.
+SSHD est un serveur, un daemon qui tourne en arriere plan et permet des connections a distance.
 - Vérifiez que le système d'exploitation choisi est Debian ou CentOS avec l'aide de l'évaluateur.
