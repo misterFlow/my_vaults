@@ -137,7 +137,11 @@ PAM permet de definir la strategie d'authentification sans devoir recompiler des
 
 Hostname and partitions Rappel :
 - Vérifiez que le nom d'hôte de la machine est correctement formaté comme suit :
-login42 (login de l'étudiant évalué)
+login42 (login de l'étudiant évalué) :
+Verifier hostname:
+```js
+hostnamectl
+```
 - Modifiez ce nom d'hôte en remplacez le login par le vôtre, puis redémarrez la machine. Si au redémarrage, le nom d'hôte n'a pas été mis à jour, l'évaluation s'arrête ici
 - Vous pouvez maintenant restaurer la machine sur le nom d'hôte d'origine
 - Demandez à l'étudiant évalué comment afficher les partitions pour cette machine virtuelle
