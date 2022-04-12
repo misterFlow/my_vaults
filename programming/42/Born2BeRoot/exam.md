@@ -108,7 +108,10 @@ sudo vim /etc/pam.d/common-password
 sudo useradd your_new_username
 ```
 - Attribuez-lui un mot de passe de votre choix, en respectant les règles du sujet. L'élève évalué doit maintenant vous expliquer comment il a pu mettre en place les règles demandées dans le sujet sur sa machine virtuelle. Normalement il doit y avoir un ou deux fichiers modifiés.
-sudo vim /etc/pam.d/
+```js
+sudo vim /etc/pam.d/common-password
+```
+
 - Maintenant que vous avez un nouvel utilisateur, demandez à l'étudiant évalué de créer un groupe nommé 'évaluant' devant vous et attribuez-le à cet utilisateur.
 - Enfin, vérifiez que cet utilisateur appartient au groupe 'évaluateur'.
 - Enfin, demandez à l'étudiant évalué d'expliquer les avantages de cette politique de mot de passe, ainsi que les avantages et les inconvénients de sa mise en œuvre.
