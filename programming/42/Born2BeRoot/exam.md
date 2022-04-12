@@ -75,3 +75,8 @@ or
 cat /etc/os-release
 ```
 or
+cat /proc/version
+or for Linux kernel version
+```js
+uname -r
+```
