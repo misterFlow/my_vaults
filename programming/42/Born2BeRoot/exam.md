@@ -171,7 +171,10 @@ lsblk
 ```
 - Comparez la sortie avec le exemple donné dans le sujet.
 - Vérifiez que le programme 'sudo' est correctement installé sur la machine virtuelle
-- L'étudiant évalué devrait maintenant afficher l'affectation de votre nouvel utilisateur au ' sudo' group
+- L'étudiant évalué devrait maintenant afficher l'affectation de votre nouvel utilisateur au ' sudo' group :
+```js
+groups
+```
 Le sujet impose des règles strictes pour sudo. L'étudiant évalué doit d'abord expliquer l'intérêt et le fonctionnement de sudo à l'aide d'exemples de son choix.
 Dans un deuxième temps, il doit vous montrer la mise en œuvre des règles imposées par le sujet
 - Vérifier que le '/var/log/sudo/' existe et contient au moins un fichier
