@@ -207,5 +207,11 @@ sudo ufw status numbered
 ```
 - Ajoutez une nouvelle règle pour ouvrir le port 8080. Vérifiez que celle-ci a bien été ajoutée en listant les règles actives :
 Ajouter 8080 dans environnement Virtual Box
-
-- Enfin, supprimez cette nouvelle règle avec l'aide de l'élève en cours d'évaluation.
+```js
+sudo ufw allow 8080
+```
+- Enfin, supprimez cette nouvelle règle avec l'aide de l'élève en cours d'évaluation :
+```js
+sudo ufw status numbered
+sudo ufw delete (rule number to be deleted)
+```
