@@ -279,4 +279,7 @@ sudo servcie cron restart
 
 uname => Linux
 uname -a => Linux fguy 5.10.0-13-amd64 #1 SMP Debian 5.10.106-1 (2022-03-17) x86_64 GNU/Linux
-grep 'physical id' /proc/cpuinfo => physical id : 0  
+grep 'physical id' /proc/cpuinfo => physical id : 0
+grep 'physical id' /proc/cpuinfo | wc -l => 1 (wordcount line)
+free => gives different 'Mem' info
+free --mega => gives different 'Mem' info in 
