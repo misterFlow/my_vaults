@@ -256,10 +256,13 @@ sudo crontab -u root -e
 -u pour "user" definit comme "root"
 -e pour editer le crontab de l'utilisateur definit
 - Une fois le bon fonctionnement du script vérifié, l'étudiant évalué doit s'assurer que ce script s'exécute toutes les minutes.
-- Une fois le bon fonctionnement du script vérifié, l'étudiant évalué doit s'assurer que ce script s'exécute toutes les minutes. Vous pouvez exécuter ce que vous voulez. Terminez l'évaluation pour vous assurer que le script s'exécute correctement avec des valeurs dynamiques.
+- Vous pouvez exécuter ce que vous voulez. Terminez l'évaluation pour vous assurer que le script s'exécute correctement avec des valeurs dynamiques.
 - Enfin, l'étudiant évalué doit arrêter l'exécution du script au démarrage du serveur, mais sans modifier le script lui-même. Pour vérifier ce point, vous devrez redémarrer le serveur une dernière fois. Au démarrage, il faudra vérifier que le script existe toujours au même endroit, que ses droits sont restés inchangés, et qu'il n'a pas été modifié :
 ```js
 sudo service cron stop
+```
+```js
+sudo reboot
 ```
 Pour le relancer :
 ```js
