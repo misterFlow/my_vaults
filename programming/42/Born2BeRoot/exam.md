@@ -232,7 +232,8 @@ sudo ufw delete (rule number to be deleted)
 ```
 
 <u>**SSH :**</u>
-- Vérifiez que le service SSH est correctement installé sur la machine virtuelle.
+- Vérifiez que le service SSH est correctement installé sur la machine virtuelle :
+sudo s
 - Vérifiez qu'il fonctionne correctement.
 - L'étudiant évalué doit être capable de vous expliquer en gros ce qu'est SSH et l'intérêt de l'utiliser.
 - Vérifiez que le service SSH utilise uniquement le port 4242.
