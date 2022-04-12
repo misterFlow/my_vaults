@@ -103,6 +103,11 @@ et
 ```js
 getent group user42
 ```
+Pour effacer un groupe :
+```js
+sudo groupdel group_name
+```
+
 - Assurez-vous que les règles imposées dans le sujet concernant la politique de mot de passe ont été mises en place en suivant les étapes suivantes :
 ```js
 sudo vim /etc/pam.d/common-password
