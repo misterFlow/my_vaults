@@ -43,6 +43,6 @@ to restart the SSH service:
 service ssh restart
 ```
 SSH (Secure Shell) est un outils qui crypte l'identite, le mot de passe et les donnees permettant l'administration du systeme de securite, le transfer de fichiers et la communication sur un reseau non securise. SSH est un client, une commande qui permet de se connecter a distance a une machine distante.
-SSHD est un serveur
+SSHD est un serveur, un demon qui tourne et permet des connections a distance.
 - Vérifiez que le service SSH est démarré avec l'aide de l'évaluateur.
 - Vérifiez que le système d'exploitation choisi est Debian ou CentOS avec l'aide de l'évaluateur.
