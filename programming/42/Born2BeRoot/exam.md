@@ -238,7 +238,10 @@ sudo systemctl status ssh
 ```
 - Vérifiez qu'il fonctionne correctement
 - L'étudiant évalué doit être capable de vous expliquer en gros ce qu'est SSH et l'intérêt de l'utiliser.
-- Vérifiez que le service SSH utilise uniquement le port 4242.
+- Vérifiez que le service SSH utilise uniquement le port 4242 :
+```js
+sudo grep Port /etc/ssh/shhd_config
+```
 - L'étudiant évalué doit vous aider à utiliser SSH afin de vous connecter avec l'utilisateur nouvellement créé. Pour ce faire, vous peut utiliser une clé ou un simple mot de passe. Cela dépendra de l'étudiant évalué. Bien sûr, vous devez vous assurer que vous ne pouvez pas utiliser SSH avec l'utilisateur 'root' comme indiqué dans le sujet.
 
 <u>**Script monitoring :**</u> 
