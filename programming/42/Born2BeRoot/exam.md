@@ -242,7 +242,11 @@ sudo systemctl status ssh
 ```js
 sudo grep Port /etc/ssh/shhd_config
 ```
-- L'étudiant évalué doit vous aider à utiliser SSH afin de vous connecter avec l'utilisateur nouvellement créé. Pour ce faire, vous peut utiliser une clé ou un simple mot de passe. Cela dépendra de l'étudiant évalué. Bien sûr, vous devez vous assurer que vous ne pouvez pas utiliser SSH avec l'utilisateur 'root' comme indiqué dans le sujet.
+- L'étudiant évalué doit vous aider à utiliser SSH afin de vous connecter avec l'utilisateur nouvellement créé. Pour ce faire, vous peut utiliser une clé ou un simple mot de passe. Cela dépendra de l'étudiant évalué. Bien sûr, vous devez vous assurer que vous ne pouvez pas utiliser SSH avec l'utilisateur 'root' comme indiqué dans le sujet :
+depuis un autre terminal :
+```js
+ssh new_username@127.0.0.1 -p 4242
+```
 
 <u>**Script monitoring :**</u> 
 - Comment fonctionne son script en vous montrant le code. L'étudiant évalué configure son script pour qu'il s'exécute toutes les 10 minutes à partir du démarrage du serveur :
