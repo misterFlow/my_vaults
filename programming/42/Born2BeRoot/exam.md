@@ -111,14 +111,20 @@ Pour effacer un utilisateur :
 ```js
 sudo deluser --remove-all-files your_username
 ```
+Pour voit toue les utilisateurs locaux :
+```js
+cut -d: -f1 /etc/passwd
+```
 - Attribuez-lui un mot de passe de votre choix, en respectant les règles du sujet. L'élève évalué doit maintenant vous expliquer comment il a pu mettre en place les règles demandées dans le sujet sur sa machine virtuelle. Normalement il doit y avoir un ou deux fichiers modifiés.
 ```js
 sudo vim /etc/pam.d/common-password
 ```
-
 - Maintenant que vous avez un nouvel utilisateur, demandez à l'étudiant évalué de créer un groupe nommé 'évaluant' devant vous et attribuez-le à cet utilisateur :
 ```js
 sudo groupadd your_new_group
+```
+```js
+sudo usermod -aG your_group your_username
 ```
 
 - Enfin, vérifiez que cet utilisateur appartient au groupe 'évaluateur'.
