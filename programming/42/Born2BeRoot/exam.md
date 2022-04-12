@@ -105,11 +105,11 @@ sudo vim /etc/pam.d/common-password
 ```
 - Tout d'abord, créez un nouvel utilisateur :
 ```js
-sudo useradd your_new_username
+sudo adduser your_new_username
 ```
 Pour effacer un utilisateur :
 ```js
-sudo userdel --remove-all-files your_username
+sudo deluser --remove-all-files your_username
 ```
 - Attribuez-lui un mot de passe de votre choix, en respectant les règles du sujet. L'élève évalué doit maintenant vous expliquer comment il a pu mettre en place les règles demandées dans le sujet sur sa machine virtuelle. Normalement il doit y avoir un ou deux fichiers modifiés.
 ```js
