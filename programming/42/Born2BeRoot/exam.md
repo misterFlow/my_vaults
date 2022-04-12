@@ -132,4 +132,5 @@ sudo usermod -aG your_group your_username
 groups
 ```
 
-- Enfin, demandez à l'étudiant évalué d'expliquer les avantages de cette politique de mot de passe, ainsi que les avantages et les inconvénients de sa mise en œuvre.
+- Enfin, demandez à l'étudiant évalué d'expliquer les avantages de cette politique de mot de passe, ainsi que les avantages et les inconvénients de sa mise en œuvre :
+securite ne permet pas l'utilisation de Kerberos
