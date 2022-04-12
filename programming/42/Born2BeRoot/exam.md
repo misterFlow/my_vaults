@@ -272,3 +272,7 @@ ou
 ```js
 sudo servcie cron restart
 ```
+
+![[Screen Shot 2022-04-12 at 7.05.30 PM.png]]
+
+![[Screen Shot 2022-04-12 at 7.03.53 PM.png]]
