@@ -288,4 +288,5 @@ awk => scripting language for manipulating data
 df --total --block-size=GB => gives disk filesystem info with total line and in GB for blocks
 top -bn1 => gives info about running processes and ressource usage in batch mode and i iteration
 who -b => time of last system boot
+cat /proc/net/sockstat | awk '$1 == "TCP": {print $3}' => cherche 'TCP' et retourne 3eme element 
 
