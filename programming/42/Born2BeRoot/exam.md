@@ -233,8 +233,10 @@ sudo ufw delete (rule number to be deleted)
 
 <u>**SSH :**</u>
 - Vérifiez que le service SSH est correctement installé sur la machine virtuelle :
-sudo s
-- Vérifiez qu'il fonctionne correctement.
+```js
+sudo systemctl status ssh
+```
+- Vérifiez qu'il fonctionne correctement
 - L'étudiant évalué doit être capable de vous expliquer en gros ce qu'est SSH et l'intérêt de l'utiliser.
 - Vérifiez que le service SSH utilise uniquement le port 4242.
 - L'étudiant évalué doit vous aider à utiliser SSH afin de vous connecter avec l'utilisateur nouvellement créé. Pour ce faire, vous peut utiliser une clé ou un simple mot de passe. Cela dépendra de l'étudiant évalué. Bien sûr, vous devez vous assurer que vous ne pouvez pas utiliser SSH avec l'utilisateur 'root' comme indiqué dans le sujet.
