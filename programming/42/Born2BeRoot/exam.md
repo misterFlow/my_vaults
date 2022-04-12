@@ -195,7 +195,13 @@ sudo adduser testsudo
 ```
 
 <u>**UFW :**</u> 
-- Vérifiez que le programme 'UFW' est correctement installé sur la machine virtuelle
+- Vérifiez que le programme 'UFW' est correctement installé sur la machine virtuelle :
+```js
+sudo ufw --version
+```
+```js
+sudo ufw status numbered
+```
 - Vérifiez qu'il fonctionne correctement
 - L'étudiant évalué doit expliquer à vous en gros ce qu'est UFW et la valeur de son utilisation.
 - Énumérez les règles actives dans UFW. Une règle doit exister pour le port 4242.
