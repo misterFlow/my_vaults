@@ -99,8 +99,15 @@ et
 ```js
 getent group user42
 ```
-- Assurez-vous que les règles imposées dans le sujet concernant la politique de mot de passe ont été mises en place en suivant les étapes suivantes.
+- Assurez-vous que les règles imposées dans le sujet concernant la politique de mot de passe ont été mises en place en suivant les étapes suivantes :
+```js
+sudo vim /etc/pam.d/common-password
+```
 - Tout d'abord, créez un nouvel utilisateur :
+```js
+su -
+usermod -aG sudo your_username
+```
 - Attribuez-lui un mot de passe de votre choix, en respectant les règles du sujet. L'élève évalué doit maintenant vous expliquer comment il a pu mettre en place les règles demandées dans le sujet sur sa machine virtuelle. Normalement il doit y avoir un ou deux fichiers modifiés. En cas de problème, l'évaluation s'arrête ici.
 - Maintenant que vous avez un nouvel utilisateur, demandez à l'étudiant évalué de créer un groupe nommé 'évaluant' devant vous et attribuez-le à cet utilisateur.
 - Enfin, vérifiez que cet utilisateur appartient au groupe 'évaluateur'.
