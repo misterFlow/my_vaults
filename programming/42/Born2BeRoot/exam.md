@@ -188,7 +188,7 @@ hostnamectl set-hostname new_hostname
 ```js
 lsblk
 ```
-- Comparez la sortie avec le exemple donné dans le sujet.
+- Comparez la sortie avec l'exemple donné dans le sujet.
 - Vérifiez que le programme 'sudo' est correctement installé sur la machine virtuelle :
 ```js
 sudo --version
