@@ -161,7 +161,7 @@ Verifier hostname:
 ```js
 hostnamectl
 ```
-- Modifiez ce nom d'hôte en remplacant le login par le vôtre, puis redémarrez la machine. Si au redémarrage, le nom d'hôte n'a pas été mis à jour, l'évaluation s'arrête ici :
+- Modifiez ce nom d'hôte en remplacant le login par le vôtre, puis redémarrez la machine :
 Changer le hostname :
 ```js
 hostnamectl set-hostname new_hostname
