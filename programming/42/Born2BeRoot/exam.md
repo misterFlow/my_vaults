@@ -183,5 +183,8 @@ Dans un deuxième temps, il doit vous montrer la mise en œuvre des règles impo
 cat sudo.log
 ```
 - Enfin, essayez d'exécuter une commande via sudo. Vérifiez si le ou les fichiers du dossier '/var/log/sudo/' ont été mis à jour.
+```js
+sudo adduser testsudo
+```
 
 
