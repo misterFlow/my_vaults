@@ -23,8 +23,13 @@ apt est le programme de gestion de paquets venant avec le paquet apt de Debian.
 [AppArmor](https://en.wikipedia.org/wiki/AppArmor) est un logiciel de securite pour Linux. Il permet a l'administrateur systeme d'associer a chaque programme un profil de securite qui restreint ses acces au systeme d'exploitation. Il comprend un mode d'apprentissage ou les transgressions au profil sont enregistrees mais pas empechees. Plus simple que SELinux car AppArmor travaille avec les chemins quand SELinux travaille s'appuie sur l'application d'indicateurs aux fichiers.
 ![[Pasted image 20220409191953.png]]
 
-Pendant la soutenance, un script doit afficher des informations toutes les 10 minutes. Son fonctionnement sera vérifié en détail ultérieurement. Si les explications ne sont pas claires, l'évaluation s'arrête ici.
+Pendant la soutenance, un script doit afficher des informations toutes les 10 minutes. Son fonctionnement sera vérifié en détail ultérieurement.
 
 <u>**Simple setup Rappel :**</u>
 Chaque fois que vous avez besoin d'aide pour vérifier quelque chose, l'étudiant évalué doit pouvoir vous aider.
-- Assurez-vous que la machine ne dispose pas d'un environnement graphique au lancement. Un mot de passe vous sera demandé avant de tenter de vous connecter à cette machine. Enfin, connectez-vous avec un utilisateur avec l'aide de l'étudiant évalué. Cet utilisateur ne doit pas être root. Faites attention au mot de passe choisi, il doit suivre les règles imposées dans le sujet. - Vérifiez que le service UFW est démarré avec l'aide de l'évaluateur. - Vérifiez que le service SSH est démarré avec l'aide de l'évaluateur. - Vérifiez que le système d'exploitation choisi est Debian ou CentOS avec l'aide de l'évaluateur. Si quelque chose ne fonctionne pas comme prévu ou n'est pas clairement expliqué, l'évaluation s'arrête ici.
+- Assurez-vous que la machine ne dispose pas d'un environnement graphique au lancement.
+- Un mot de passe vous sera demandé avant de tenter de vous connecter à cette machine.
+- Enfin, connectez-vous avec un utilisateur avec l'aide de l'étudiant évalué. Cet utilisateur ne doit pas être root. Faites attention au mot de passe choisi, il doit suivre les règles imposées dans le sujet.
+- Vérifiez que le service UFW est démarré avec l'aide de l'évaluateur:
+- Vérifiez que le service SSH est démarré avec l'aide de l'évaluateur.
+- Vérifiez que le système d'exploitation choisi est Debian ou CentOS avec l'aide de l'évaluateur.
