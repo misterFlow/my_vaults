@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/42/Born2BeRoot/Born2beRoot.md",
+            "file": "programming/42/Born2BeRoot/myNotes.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/42/Born2BeRoot/Born2beRoot.md",
+                "file": "programming/42/Born2BeRoot/myNotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,9 +101,9 @@
   },
   "active": "3d625fa0d780f138",
   "lastOpenFiles": [
-    "programming/42/Born2BeRoot/Born2beRoot.md",
-    "programming/42/Born2BeRoot/exam.md",
     "programming/42/Born2BeRoot/myNotes.md",
+    "programming/42/Born2BeRoot/exam.md",
+    "programming/42/Born2BeRoot/Born2beRoot.md",
     "conflict-files-obsidian-git.md",
     "programming/42/Born2BeRoot/from Skan.md",
     "programming/pictures/Pasted image 20220409191552.png",

@@ -74,21 +74,31 @@ SSHD est un serveur, un daemon qui tourne en arriere plan et permet des connecti
 ```js
 hostnamectl
 ```
-or
+ou
 ```js
 cat /etc/os-release
 ```
-or
+ou
 ```js
 cat /proc/version
 ```
-or for Linux kernel version
+ou pour la version Linux kernel
 ```js
 uname -r
 ```
 <u>**User**</u>
 - Le sujet demande qu'un utilisateur avec le login de l'étudiant évalué soit présent sur la machine virtuelle. Vérifiez qu'il a bien été ajouté et qu'il appartient aux groupes 'sudo' et 'user42'.
-
+```js
+getent group
+```
+ou
+```js
+getent group sudo
+```
+et
+```js
+getent group user42
+```
 - Assurez-vous que les règles imposées dans le sujet concernant la politique de mot de passe ont été mises en place en suivant les étapes suivantes.
 - Tout d'abord, créez un nouvel utilisateur :
 - Attribuez-lui un mot de passe de votre choix, en respectant les règles du sujet. L'élève évalué doit maintenant vous expliquer comment il a pu mettre en place les règles demandées dans le sujet sur sa machine virtuelle. Normalement il doit y avoir un ou deux fichiers modifiés. En cas de problème, l'évaluation s'arrête ici.
