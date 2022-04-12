@@ -18,7 +18,7 @@ Security-Enhanced Linux est un module de sécurité Linux définissant une polit
 Dandified YUM est un gestionnaire de paquet.
 - Si l'étudiant évalué a choisi Debian, la différence entre aptitude et apt, et ce qu'est APPArmor :
 [APT](https://en.wikipedia.org/wiki/APT_(software)) (Advanced Packaging Tool) est un gestionnaire de paquets utilise par Debian.
-Aptitude est une interface du gestionnaire de paquet [APT](https://en.wikipedia.org/wiki/APT_(software)) qui offre plus de fonctionnalité que apt.
+[Aptitude](https://en.wikipedia.org/wiki/Aptitude_(software)) est une interface du gestionnaire de paquet [APT](https://en.wikipedia.org/wiki/APT_(software)) qui offre plus de fonctionnalité que apt.
 apt est le programme de gestion de paquets venant avec le paquet apt de Debian.
 [AppArmor](https://en.wikipedia.org/wiki/AppArmor) est un logiciel de securite pour Linux. Il permet a l'administrateur systeme d'associer a chaque programme un profil de securite qui restreint ses acces au systeme d'exploitation. Il comprend un mode d'apprentissage ou les transgressions au profil sont enregistrees mais pas empechees. Plus simple que SELinux car AppArmor travaille avec les chemins quand SELinux travaille s'appuie sur l'application d'indicateurs aux fichiers.
 ![[Pasted image 20220409191953.png]]
