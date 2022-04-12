@@ -148,7 +148,7 @@ sudo usermod -aG your_group your_username
 
 - Enfin, vérifiez que cet utilisateur appartient au groupe 'évaluateur' :
 ```js
-groups
+groups your_username
 ```
 
 - Enfin, demandez à l'étudiant évalué d'expliquer les avantages de cette politique de mot de passe, ainsi que les avantages et les inconvénients de sa mise en œuvre :
