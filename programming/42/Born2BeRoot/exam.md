@@ -231,6 +231,13 @@ sudo ufw status numbered
 sudo ufw delete (rule number to be deleted)
 ```
 
+<u>**SSH :**</u>
+- Vérifiez que le service SSH est correctement installé sur la machine virtuelle.
+- Vérifiez qu'il fonctionne correctement.
+- L'étudiant évalué doit être capable de vous expliquer en gros ce qu'est SSH et l'intérêt de l'utiliser.
+- Vérifiez que le service SSH utilise uniquement le port 4242.
+- L'étudiant évalué doit vous aider à utiliser SSH afin de vous connecter avec l'utilisateur nouvellement créé. Pour ce faire, vous peut utiliser une clé ou un simple mot de passe. Cela dépendra de l'étudiant évalué. Bien sûr, vous devez vous assurer que vous ne pouvez pas utiliser SSH avec l'utilisateur 'root' comme indiqué dans le sujet.
+
 <u>**Script monitoring :**</u> 
 - Comment fonctionne son script en vous montrant le code. L'étudiant évalué configure son script pour qu'il s'exécute toutes les 10 minutes à partir du démarrage du serveur :
 ```js
