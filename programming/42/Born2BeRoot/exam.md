@@ -86,3 +86,11 @@ or for Linux kernel version
 ```js
 uname -r
 ```
+<u>**User**</u>
+Le sujet demande qu'un utilisateur avec le login de l'étudiant évalué soit présent sur la machine virtuelle. Vérifiez qu'il a bien été ajouté et qu'il appartient aux groupes 'sudo' et 'user42'.
+Assurez-vous que les règles imposées dans le sujet concernant la politique de mot de passe ont été mises en place en suivant les étapes suivantes.
+Tout d'abord, créez un nouvel utilisateur.
+Attribuez-lui un mot de passe de votre choix, en respectant les règles du sujet. L'élève évalué doit maintenant vous expliquer comment il a pu mettre en place les règles demandées dans le sujet sur sa machine virtuelle. Normalement il doit y avoir un ou deux fichiers modifiés. En cas de problème, l'évaluation s'arrête ici.
+Maintenant que vous avez un nouvel utilisateur, demandez à l'étudiant évalué de créer un groupe nommé 'évaluant' devant vous et attribuez-le à cet utilisateur.
+Enfin, vérifiez que cet utilisateur appartient au groupe 'évaluateur'.
+Enfin, demandez à l'étudiant évalué d'expliquer les avantages de cette politique de mot de passe, ainsi que les avantages et les inconvénients de sa mise en œuvre.
