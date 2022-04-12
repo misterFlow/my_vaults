@@ -7,7 +7,7 @@ L'étudiant évalué doit vous expliquer simplement :
 - Comment fonctionne une machine virtuelle :
 une machine virtuelle est une illusion d'un appareil informatique créée par un logiciel d'émulation ou instanciée par un hyperviseur. Le logiciel d'émulation simule la présence de ressources matérielles et logicielles (mémoire, processeur, disque dur, système d'exploitation, pilotes) permettant d'exécuter des programmes dans les mêmes conditions que celles de la machine simulée.
 - Son choix de système d'exploitation
-- Les différences fondamentales entre CentOS et Debian
+- Les différences fondamentales entre CentOS et Debian (tous deux Linux)
 [CenOS](https://en.wikipedia.org/wiki/CentOS)
 [Debian](https://en.wikipedia.org/wiki/Debian)
 ![[Pasted image 20220409191552.png]]
