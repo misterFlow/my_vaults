@@ -142,7 +142,24 @@ Verifier hostname:
 ```js
 hostnamectl
 ```
-- Modifiez ce nom d'hôte en remplacez le login par le vôtre, puis redémarrez la machine. Si au redémarrage, le nom d'hôte n'a pas été mis à jour, l'évaluation s'arrête ici
+- Modifiez ce nom d'hôte en remplacant le login par le vôtre, puis redémarrez la machine. Si au redémarrage, le nom d'hôte n'a pas été mis à jour, l'évaluation s'arrête ici :
+Changer le hostname :
+```js
+hostnamectl set-hostname new_hostname
+```
+Changer /etc/hosts file :
+```js
+sudo nano /etc/hosts
+```
+Changer old_hostname par new_hostname :
+```js
+127.0.0.1	localhost
+127.0.0.1	new_hostname
+```
+Reboot et verifier le changement :
+```js
+sudo reboot
+```
 - Vous pouvez maintenant restaurer la machine sur le nom d'hôte d'origine
 - Demandez à l'étudiant évalué comment afficher les partitions pour cette machine virtuelle
 - Comparez la sortie avec le exemple donné dans le sujet. Attention : si l'élève évalué réalise les bonus, il faudra se référer à l'exemple de bonus. Cette partie est l'occasion d'échanger sur les scores ! L'étudiant évalué doit vous expliquer brièvement le fonctionnement de LVM et de quoi il s'agit
