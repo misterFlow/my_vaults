@@ -206,6 +206,11 @@ Check if group created:
 getent group
 ```
 
+Delete a group :
+```js
+sudo groupdel group_name
+```
+
 <u>**Create user and assign to group:**</u>
 [/etc/passwd](https://linuxize.com/post/etc-passwd-file/) file is a text file with one entry per line, representing user account.
 mark:x:1001:1001:mark,,,:/home/mark:/bin/bash
