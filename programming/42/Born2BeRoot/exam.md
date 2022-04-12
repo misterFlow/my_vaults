@@ -199,11 +199,13 @@ sudo adduser testsudo
 ```js
 sudo ufw --version
 ```
+- Vérifiez qu'il fonctionne correctement
+- L'étudiant évalué doit expliquer à vous en gros ce qu'est UFW et la valeur de son utilisation.
+- Énumérez les règles actives dans UFW. Une règle doit exister pour le port 4242 :
 ```js
 sudo ufw status numbered
 ```
-- Vérifiez qu'il fonctionne correctement
-- L'étudiant évalué doit expliquer à vous en gros ce qu'est UFW et la valeur de son utilisation.
-- Énumérez les règles actives dans UFW. Une règle doit exister pour le port 4242.
-- Ajoutez une nouvelle règle pour ouvrir le port 8080. Vérifiez que celle-ci a bien été ajoutée en listant les règles actives.
+- Ajoutez une nouvelle règle pour ouvrir le port 8080. Vérifiez que celle-ci a bien été ajoutée en listant les règles actives :
+Ajouter 8080 dans environnement Virtual Box
+
 - Enfin, supprimez cette nouvelle règle avec l'aide de l'élève en cours d'évaluation.
