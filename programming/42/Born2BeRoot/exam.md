@@ -115,6 +115,10 @@ Pour voit tous les utilisateurs locaux :
 ```js
 cut -d: -f1 /etc/passwd
 ```
+Pour changer d'utilisateur :
+```js
+su your_username
+```
 - Attribuez-lui un mot de passe de votre choix, en respectant les règles du sujet. L'élève évalué doit maintenant vous expliquer comment il a pu mettre en place les règles demandées dans le sujet sur sa machine virtuelle. Normalement il doit y avoir un ou deux fichiers modifiés.
 ```js
 sudo vim /etc/pam.d/common-password
