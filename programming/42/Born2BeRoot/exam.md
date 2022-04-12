@@ -24,3 +24,7 @@ apt est le programme de gestion de paquets venant avec le paquet apt de Debian.
 ![[Pasted image 20220409191953.png]]
 
 Pendant la soutenance, un script doit afficher des informations toutes les 10 minutes. Son fonctionnement sera vérifié en détail ultérieurement. Si les explications ne sont pas claires, l'évaluation s'arrête ici.
+
+<u>**Simple setup Rappel :**</u>
+Chaque fois que vous avez besoin d'aide pour vérifier quelque chose, l'étudiant évalué doit pouvoir vous aider.
+- Assurez-vous que la machine ne dispose pas d'un environnement graphique au lancement. Un mot de passe vous sera demandé avant de tenter de vous connecter à cette machine. Enfin, connectez-vous avec un utilisateur avec l'aide de l'étudiant évalué. Cet utilisateur ne doit pas être root. Faites attention au mot de passe choisi, il doit suivre les règles imposées dans le sujet. - Vérifiez que le service UFW est démarré avec l'aide de l'évaluateur. - Vérifiez que le service SSH est démarré avec l'aide de l'évaluateur. - Vérifiez que le système d'exploitation choisi est Debian ou CentOS avec l'aide de l'évaluateur. Si quelque chose ne fonctionne pas comme prévu ou n'est pas clairement expliqué, l'évaluation s'arrête ici.
