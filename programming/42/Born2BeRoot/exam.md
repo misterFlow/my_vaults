@@ -278,4 +278,5 @@ sudo servcie cron restart
 ![[Screen Shot 2022-04-12 at 7.03.53 PM.png]]
 
 uname => Linux
-uname -a => Linux fguy 5.10.0-13-amd64 #1 SMP Debian 5.10.106-1 (2022-03-17) x86_
+uname -a => Linux fguy 5.10.0-13-amd64 #1 SMP Debian 5.10.106-1 (2022-03-17) x86_64 GNU/Linux
+grep 'physical id' /proc/cpuinfo => physical id : 0  
