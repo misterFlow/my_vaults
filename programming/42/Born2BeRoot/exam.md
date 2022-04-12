@@ -169,7 +169,7 @@ hostnamectl set-hostname new_hostname
 ```js
 lsblk
 ```
-- Comparez la sortie avec le exemple donné dans le sujet. Attention : si l'élève évalué réalise les bonus, il faudra se référer à l'exemple de bonus. Cette partie est l'occasion d'échanger sur les scores ! L'étudiant évalué doit vous expliquer brièvement le fonctionnement de LVM et de quoi il s'agit
+- Comparez la sortie avec le exemple donné dans le sujet.
 - Vérifiez que le programme 'sudo' est correctement installé sur la machine virtuelle
 - L'étudiant évalué devrait maintenant afficher l'affectation de votre nouvel utilisateur au ' sudo' group
 Le sujet impose des règles strictes pour sudo. L'étudiant évalué doit d'abord expliquer l'intérêt et le fonctionnement de sudo à l'aide d'exemples de son choix.
