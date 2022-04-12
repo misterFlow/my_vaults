@@ -285,3 +285,4 @@ free => gives different 'Mem' info
 free --mega => gives different 'Mem' info in megabite
 free --mega | grep 'Mem' => gives different 'Mem' info only
 awk => scripting language for manipulating data
+df --total --block-size=GB => gives disk filesystem info with total line and in 
