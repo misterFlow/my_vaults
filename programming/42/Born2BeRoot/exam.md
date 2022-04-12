@@ -133,4 +133,4 @@ groups
 ```
 
 - Enfin, demandez à l'étudiant évalué d'expliquer les avantages de cette politique de mot de passe, ainsi que les avantages et les inconvénients de sa mise en œuvre :
-PAM  ne permet pas l'utilisation de Kerberos
+PAM permet de definir la strategie d'authentification sans devoir recompiler des programmes d'authentification, ne permet pas l'utilisation de Kerberos
