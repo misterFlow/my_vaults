@@ -31,5 +31,17 @@ Chaque fois que vous avez besoin d'aide pour vérifier quelque chose, l'étudian
 - Un mot de passe vous sera demandé avant de tenter de vous connecter à cette machine.
 - Enfin, connectez-vous avec un utilisateur avec l'aide de l'étudiant évalué. Cet utilisateur ne doit pas être root. Faites attention au mot de passe choisi, il doit suivre les règles imposées dans le sujet.
 - Vérifiez que le service UFW est démarré avec l'aide de l'évaluateur:
+```js
+sudo systemctl status ssh
+```
+or
+```js
+sudo service sshd status
+```
+to restart the SSH service:
+```js
+service ssh restart
+```
+
 - Vérifiez que le service SSH est démarré avec l'aide de l'évaluateur.
 - Vérifiez que le système d'exploitation choisi est Debian ou CentOS avec l'aide de l'évaluateur.
