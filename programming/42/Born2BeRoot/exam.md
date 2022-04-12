@@ -126,7 +126,7 @@ Pour effacer un utilisateur :
 ```js
 sudo deluser --remove-all-files your_username
 ```
-Pour voit tous les utilisateurs locaux :
+Pour voir tous les utilisateurs locaux :
 ```js
 cut -d: -f1 /etc/passwd
 ```
