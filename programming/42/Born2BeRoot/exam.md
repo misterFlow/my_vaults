@@ -287,4 +287,5 @@ free --mega | grep 'Mem' => gives different 'Mem' info only
 awk => scripting language for manipulating data
 df --total --block-size=GB => gives disk filesystem info with total line and in GB for blocks
 top -bn1 => gives info about running processes and ressource usage in batch mode and i iteration
-who -b => 
+who -b => time of last system boot
+
