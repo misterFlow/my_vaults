@@ -51,6 +51,10 @@ Configure port rules:
 ```js
 sudo ufw allow 4242
 ```
+Verifier si le setting du port est correct :
+```js
+sudo grep Port /etc/ssh/sshd_config
+```
 Delete the new rule:
 ```js
 sudo ufw status numbered
