@@ -42,6 +42,6 @@ to restart the SSH service:
 ```js
 service ssh restart
 ```
-
+SSH (Secure Shell) est un outils qui crypte l'identite, le mot de passe et les donnees permettant l'administration du systeme de securite, le transfer de fi
 - Vérifiez que le service SSH est démarré avec l'aide de l'évaluateur.
 - Vérifiez que le système d'exploitation choisi est Debian ou CentOS avec l'aide de l'évaluateur.
