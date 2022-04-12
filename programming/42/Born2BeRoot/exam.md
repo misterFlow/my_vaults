@@ -71,4 +71,7 @@ SSHD est un serveur, un daemon qui tourne en arriere plan et permet des connecti
 hostnamectl
 ```
 or
+```js
 cat /etc/os-release
+```
+or
