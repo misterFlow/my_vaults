@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/42/Born2BeRoot/exam.md",
+                "file": "programming/42/Born2BeRoot/Born2beRoot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,10 +99,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "624f7c6bd9e72c33",
+  "active": "3d625fa0d780f138",
   "lastOpenFiles": [
-    "programming/42/Born2BeRoot/exam.md",
     "programming/42/Born2BeRoot/Born2beRoot.md",
+    "programming/42/Born2BeRoot/exam.md",
     "programming/42/Born2BeRoot/myNotes.md",
     "conflict-files-obsidian-git.md",
     "programming/42/Born2BeRoot/from Skan.md",
