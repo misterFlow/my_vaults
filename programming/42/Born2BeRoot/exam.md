@@ -55,7 +55,7 @@ Verifier si le setting du port est correct :
 ```js
 sudo grep Port /etc/ssh/sshd_config
 ```
-Deletecucu the new rule:
+Delete the new rule:
 ```js
 sudo ufw status numbered
 sudo ufw delete (rule number to be deleted)
