@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "624f7c6bd9e72c33",
+        "id": "7f7541a7e0b12dba",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -16,7 +16,7 @@
         }
       },
       {
-        "id": "5fc04a6d0cc6d066",
+        "id": "9aeb77d0d5a0df7f",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 215
   },
   "right": {
     "id": "eff5a9a9fee75209",
@@ -99,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "624f7c6bd9e72c33",
+  "active": "7f7541a7e0b12dba",
   "lastOpenFiles": [
     "programming/42/Born2BeRoot/exam.md",
-    "programming/pictures/Screen Shot 2022-04-12 at 7.03.53 PM.png",
-    "Screen Shot 2022-04-12 at 7.03.53 PM 1.png.md",
-    "Screen Shot 2022-04-12 at 7.03.53 PM 1.png",
+    "README.md",
     "programming/42/Born2BeRoot/Born2beRoot.md",
-    "programming/42/Born2BeRoot/myNotes.md",
     "conflict-files-obsidian-git.md",
+    "programming/42/Born2BeRoot/myNotes.md",
     "programming/42/Born2BeRoot/from Skan.md",
-    "programming/pictures/Pasted image 20220409191552.png",
-    "programming/pictures/Pasted image 20220317150501.png"
+    "programming/pictures/Screen Shot 2022-03-17 at 3.49.30 PM.png",
+    "programming/pictures/Pasted image 20220317150501.png",
+    "programming/pictures/Screen Shot 2022-03-17 at 3.48.06 PM.png",
+    "programming/pictures/Pasted image 20220223114151.png"
   ]
 }
