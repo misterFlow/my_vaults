@@ -116,6 +116,10 @@ sudo deluser --remove-all-files your_username
 sudo vim /etc/pam.d/common-password
 ```
 
-- Maintenant que vous avez un nouvel utilisateur, demandez à l'étudiant évalué de créer un groupe nommé 'évaluant' devant vous et attribuez-le à cet utilisateur.
+- Maintenant que vous avez un nouvel utilisateur, demandez à l'étudiant évalué de créer un groupe nommé 'évaluant' devant vous et attribuez-le à cet utilisateur :
+```js
+sudo groupadd your_new_group
+```
+
 - Enfin, vérifiez que cet utilisateur appartient au groupe 'évaluateur'.
 - Enfin, demandez à l'étudiant évalué d'expliquer les avantages de cette politique de mot de passe, ainsi que les avantages et les inconvénients de sa mise en œuvre.
