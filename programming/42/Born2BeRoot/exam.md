@@ -31,6 +31,27 @@ Chaque fois que vous avez besoin d'aide pour vérifier quelque chose, l'étudian
 - Un mot de passe vous sera demandé avant de tenter de vous connecter à cette machine.
 - Enfin, connectez-vous avec un utilisateur avec l'aide de l'étudiant évalué. Cet utilisateur ne doit pas être root. Faites attention au mot de passe choisi, il doit suivre les règles imposées dans le sujet.
 - Vérifiez que le service UFW est démarré avec l'aide de l'évaluateur :
+Enable UFW:
+```js
+sudo ufw enable
+```
+Check status:
+```js
+sudo ufw status numbered
+```
+Configure rules:
+```js
+sudo ufw allow ssh
+```
+Configure port rules:
+```js
+sudo ufw allow 4242
+```
+Delete the new rule:
+```js
+sudo ufw status numbered
+sudo ufw delete (rule number to be deleted)
+```
 - Vérifiez que le service SSH est démarré avec l'aide de l'évaluateur :
 ```js
 sudo systemctl status ssh
