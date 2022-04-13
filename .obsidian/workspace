@@ -21,7 +21,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/42/Born2BeRoot/Born2beRoot.md",
+            "file": "programming/42/Born2BeRoot/myNotes.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "7033862970e8b3a4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/42/Born2BeRoot/Born2beRoot.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +111,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5fc04a6d0cc6d066",
+  "active": "7033862970e8b3a4",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "programming/42/Born2BeRoot/myNotes.md",
     "programming/42/Born2BeRoot/Born2beRoot.md",
     "programming/42/Born2BeRoot/exam.md",
     "programming/pictures/Screen Shot 2022-04-12 at 7.03.53 PM.png",
     "Screen Shot 2022-04-12 at 7.03.53 PM 1.png.md",
     "Screen Shot 2022-04-12 at 7.03.53 PM 1.png",
-    "programming/42/Born2BeRoot/myNotes.md",
-    "conflict-files-obsidian-git.md",
     "programming/42/Born2BeRoot/from Skan.md",
     "programming/pictures/Pasted image 20220409191552.png",
     "programming/pictures/Pasted image 20220317150501.png"

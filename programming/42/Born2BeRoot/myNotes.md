@@ -270,7 +270,7 @@ Defaults	log_input, log_output
 Defaults	requiretty
 ```
 The directory /var/log/sudo might need to be created.
-"[tty](https://en.wikipedia.org/wiki/Tty_(Unix))" stands for "teletypewriter" and is a command to print the file name of the terminal connected to the standrd input.
+"[tty](https://en.wikipedia.org/wiki/Tty_(Unix))" stands for "teletypewriter" and is a command to print the file name of the terminal connected to the standard input.
 
 <u>**Change the hostname:**</u>
 In computer networking, [localhost](https://en.wikipedia.org/wiki/Localhost) is a hostname that refers to the current device used to access it. It is used to access the network services that are running on the host via the loopback network interface. Using the loopback interface bypasses any local network interface hardware.

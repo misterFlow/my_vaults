@@ -126,7 +126,7 @@ Pour effacer un utilisateur :
 ```js
 sudo deluser --remove-all-files your_username
 ```
-Pour voit tous les utilisateurs locaux :
+Pour voir tous les utilisateurs locaux :
 ```js
 cut -d: -f1 /etc/passwd
 ```
@@ -161,7 +161,7 @@ Verifier hostname:
 ```js
 hostnamectl
 ```
-- Modifiez ce nom d'hôte en remplacant le login par le vôtre, puis redémarrez la machine. Si au redémarrage, le nom d'hôte n'a pas été mis à jour, l'évaluation s'arrête ici :
+- Modifiez ce nom d'hôte en remplacant le login par le vôtre, puis redémarrez la machine :
 Changer le hostname :
 ```js
 hostnamectl set-hostname new_hostname
@@ -188,7 +188,7 @@ hostnamectl set-hostname new_hostname
 ```js
 lsblk
 ```
-- Comparez la sortie avec le exemple donné dans le sujet.
+- Comparez la sortie avec l'exemple donné dans le sujet.
 - Vérifiez que le programme 'sudo' est correctement installé sur la machine virtuelle :
 ```js
 sudo --version
@@ -215,7 +215,7 @@ sudo adduser testsudo
 sudo ufw --version
 ```
 - Vérifiez qu'il fonctionne correctement
-- L'étudiant évalué doit expliquer à vous en gros ce qu'est UFW et la valeur de son utilisation.
+- L'étudiant évalué doit vous expliquer en gros ce qu'est UFW et la valeur de son utilisation.
 - Énumérez les règles actives dans UFW. Une règle doit exister pour le port 4242 :
 ```js
 sudo ufw status numbered
@@ -232,7 +232,7 @@ sudo ufw delete (rule number to be deleted)
 ```
 
 <u>**SSH :**</u>
-- Vérifiez que le service SSH est correctement installé sur la machine virtuelle :
+- Vérifiez que le service SSH soit correctement installé sur la machine virtuelle :
 ```js
 sudo systemctl status ssh
 ```
