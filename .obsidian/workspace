@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GetNextLine.md",
+            "file": "programming/environement/Github.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "white",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GetNextLine.md",
+                "file": "programming/environement/Github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,10 +89,10 @@
   },
   "active": "7f7541a7e0b12dba",
   "lastOpenFiles": [
+    "programming/environement/Github.md",
     "GetNextLine.md",
     "programming/42/Born2BeRoot/exam.md",
     "conflict-files-obsidian-git.md",
-    "programming/environement/Github.md",
     "README.md",
     "programming/42/Born2BeRoot/myNotes.md",
     "programming/42/Born2BeRoot/Born2beRoot.md",
