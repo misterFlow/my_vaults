@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/42/Born2BeRoot/exam.md",
+            "file": "GetNextLine.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "white",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/42/Born2BeRoot/exam.md",
+                "file": "GetNextLine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +90,7 @@
   },
   "active": "7f7541a7e0b12dba",
   "lastOpenFiles": [
+    "GetNextLine.md",
     "programming/42/Born2BeRoot/exam.md",
     "conflict-files-obsidian-git.md",
     "programming/environement/Github.md",
@@ -97,7 +99,6 @@
     "programming/42/Born2BeRoot/Born2beRoot.md",
     "programming/42/Born2BeRoot/from Skan.md",
     "programming/pictures/Screen Shot 2022-03-17 at 3.49.30 PM.png",
-    "programming/pictures/Pasted image 20220317150501.png",
-    "programming/pictures/Screen Shot 2022-03-17 at 3.48.06 PM.png"
+    "programming/pictures/Pasted image 20220317150501.png"
   ]
 }
