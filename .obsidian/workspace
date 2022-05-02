@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "7f7541a7e0b12dba",
+        "id": "be1f0038e3ca9e18",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/environement/Github.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/environement/Github.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,13 +87,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7f7541a7e0b12dba",
+  "active": "be1f0038e3ca9e18",
   "lastOpenFiles": [
-    "programming/environement/Github.md",
-    "GetNextLine.md",
-    "programming/42/Born2BeRoot/exam.md",
-    "conflict-files-obsidian-git.md",
     "README.md",
+    "conflict-files-obsidian-git.md",
+    "programming/42/GetNextLine.md",
+    "programming/environement/Github.md",
+    "programming/42/Born2BeRoot/exam.md",
     "programming/42/Born2BeRoot/myNotes.md",
     "programming/42/Born2BeRoot/Born2beRoot.md",
     "programming/42/Born2BeRoot/from Skan.md",
