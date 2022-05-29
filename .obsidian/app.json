@@ -2,5 +2,6 @@
   "defaultViewMode": "source",
   "readableLineLength": false,
   "legacyEditor": false,
-  "livePreview": true
+  "livePreview": true,
+  "promptDelete": false
 }
