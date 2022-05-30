@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "8797d40d94045382",
+        "id": "be1f0038e3ca9e18",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 215
   },
   "right": {
     "id": "eff5a9a9fee75209",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8797d40d94045382",
+  "active": "be1f0038e3ca9e18",
   "lastOpenFiles": [
     "programming/environement/Github.md",
-    "conflict-files-obsidian-git.md",
     "README.md",
+    "programming/environement/PowerShell.md",
+    "programming/environement/environement.md",
+    "programming/environement/Generalities.md",
+    "programming/environement/WSL2.md",
+    "programming/environement/Ubunto 20.04 LTS.md",
     "programming/42/GetNextLine.md",
-    "Obsidian.md",
-    "programming/42/Born2BeRoot/exam.md",
-    "programming/42/Born2BeRoot/myNotes.md",
-    "programming/42/Born2BeRoot/Born2beRoot.md",
-    "programming/pictures/Screen Shot 2022-04-12 at 7.03.53 PM.png",
-    "Screen Shot 2022-04-12 at 7.03.53 PM 1.png.md"
+    "conflict-files-obsidian-git.md",
+    "programming/42/Born2BeRoot/exam.md"
   ]
 }
