@@ -17,3 +17,17 @@ Les instructions suivantes existent;
 ![[pushswap_instructions.png]]
 
 Dans le terminal il faut appeler le fichier "push_swap" suivi d'une suite d'entiers.
+"./push_swap" 5 4 1 2 3
+
+Pour tester mon algorythme, il faut créer un deuxième executable "checker"
+"./push_swap" 5 4 1 2 3 | ./checker 5 4 1 2 3
+Qui rendra "OK" ou "KO" selon si "push_swap" fonctionne
+
+![[checker1.png]]
+
+![[checker2.png]]
+
+![[checker3.png]]
+
+![[checker4.png]]
+
