@@ -31,3 +31,8 @@ Qui rendra "OK" ou "KO" selon si "push_swap" fonctionne
 
 ![[checker4.png]]
 
+source1 : https://medium.com/@jamierobertdawson/push-swap-the-least-amount-of-moves-with-two-stacks-d1e76a71789a
+
+source2 : https://medium.com/nerd-for-tech/push-swap-tutorial-fa746e6aba1e
+
+source github1 : https://github.com/pvandamme/push_swap
