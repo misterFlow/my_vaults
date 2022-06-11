@@ -71,3 +71,10 @@ git reset --hard HEAD
 git merge origin/<current_branch>
 ```
 
+or
+
+```js
+git fetch --all
+git reset --hard origin/master
+```
+
