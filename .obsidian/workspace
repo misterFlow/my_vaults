@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/42/PushSwap.md",
+            "file": "programming/42/PushSwapFromPVandamme.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/42/PushSwap.md",
+                "file": "programming/42/PushSwapFromPVandamme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,10 +101,10 @@
   },
   "active": "fc9ce4dcc6245fe5",
   "lastOpenFiles": [
+    "programming/42/PushSwapFromPVandamme.md",
     "programming/42/PushSwap.md",
     "README.md",
     "programming/environement/Github.md",
-    "programming/42/PushSwapFromPVandamme.md",
     "conflict-files-obsidian-git.md",
     "programming/C code/variable arguments function.md",
     "programming/C code/Variable.md",
