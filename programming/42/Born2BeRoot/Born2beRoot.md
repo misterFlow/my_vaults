@@ -1,21 +1,22 @@
 [[42]] [[Born2beRoot]]
 
 Tasks during evaluation :
-![[Born2BeRoot.pdf]]
+![[Born2BeRoot.pdf]](../../pdf/Born2BeRoot.pdf)
 
 Github for step by step procedure :
-https://baigal.medium.com/born2beroot-e6e26dfb50ac
+<https://baigal.medium.com/born2beroot-e6e26dfb50ac>
 
 to exit the Linux VM : 'cmd'
 
-to change user to root : 
+to change user to root :
+
 ```js
 su -
 ```
 
-![[Pasted image 20220317150501.png]]
+![[Pasted_image_20220317150501.png]](../../pictures/Pasted_image_20220317150501.png)
 
-![[Screen Shot 2022-03-18 at 4.05.17 PM.png]]
+![[Screen Shot 2022-03-18 at 4.05.17 PM.png]](../../pictures/Screen Shot 2022-03-18 at 4.05.17 PM.png)
 
 ![[Screen Shot 2022-03-17 at 3.48.06 PM.png]]
 
