@@ -19,3 +19,9 @@ All files in "Includes" folder are of type ".h"
 ![[PushSwapPVandammeMakefile1.png]](../pictures/PushSwapPVandammeMakefile1.png)
 
 ![[PushSwapPVandammeMakefile2.png]](../pictures/PushSwapPVandammeMakefile2.png)
+
+
+```js
+resolve(t_list **list_a, t_info *info)
+```
+
