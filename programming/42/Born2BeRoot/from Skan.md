@@ -1,3 +1,3 @@
 [[Born2beRoot]]
 
-![[LINUX Gestion de la machine.pdf]]
+![[LINUX_Gestion_de_la_machine.pdf]](../../pdf/LINUX_Gestion_de_la_machine.pdf)
