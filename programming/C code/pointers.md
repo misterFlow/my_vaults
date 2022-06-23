@@ -4,13 +4,13 @@ https://www.youtube.com/watch?v=zuegQmMdy8M&t=520s
 
 Sections 1 & 2
 
-![[Pasted image 20211210154350.png]]
+![[pointers1.png]](../pictures/pointers1.png)
 
-![[Pasted image 20211210154510.png]]
+![[pointers2.png]](../pictures/pointers2.png)
 
-![[Pasted image 20211210154615.png]]
+![[pointers3.png]](../pictures/pointers3.png)
 
-![[Pasted image 20211210154945.png]]
+![[pointers4.png]](../pictures/pointers4.png)
 
 ![[Pasted image 20211210155056.png]]
 

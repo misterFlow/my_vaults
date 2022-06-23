@@ -1,3 +1,5 @@
 [[42]]
 
-![[Makefile.png]]
+# Makefile
+
+![[Makefile.png]](../pictures/Makefile.png)

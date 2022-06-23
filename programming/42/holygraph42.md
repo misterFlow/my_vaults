@@ -1,3 +1,3 @@
 [[42]]
 
-![[holygraph.png]]
+![[holygraph.png]](../pictures/holygraph.png)

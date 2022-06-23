@@ -1,38 +1,39 @@
 [[42]] [[Born2beRoot]]
 
 Tasks during evaluation :
-![[Born2BeRoot.pdf]]
+![[Born2BeRoot.pdf]](../../pdf/Born2BeRoot.pdf)
 
 Github for step by step procedure :
-https://baigal.medium.com/born2beroot-e6e26dfb50ac
+<https://baigal.medium.com/born2beroot-e6e26dfb50ac>
 
 to exit the Linux VM : 'cmd'
 
-to change user to root : 
+to change user to root :
+
 ```js
 su -
 ```
 
-![[Pasted image 20220317150501.png]]
+![[configure_network1.png]](../../pictures/configure_network1.png)
 
-![[Screen Shot 2022-03-18 at 4.05.17 PM.png]]
+![[configure_network2.png]](../../pictures/configure_network2.png)
 
-![[Screen Shot 2022-03-17 at 3.48.06 PM.png]]
+![[set_up_user_and_password1.png]](../../pictures/set_up_user_and_password1.png)
 
-![[Screen Shot 2022-03-17 at 3.49.30 PM.png]]
+![[set_up_user_and_password2.png]](../../pictures/set_up_user_and_password2.png)
 
-![[Screen Shot 2022-03-17 at 3.50.21 PM.png]]
+![[set_up_user_and_password3.png]](../../pictures/set_up_user_and_password3.png)
 
 Login;
-![[Screen Shot 2022-03-17 at 3.51.03 PM.png]]
+![[set_up_user_and_password4.png]](../../pictures/set_up_user_and_password4.png)
 
-![[Screen Shot 2022-03-17 at 3.51.44 PM.png]]
+![[set_up_user_and_password5.png]](../../pictures/set_up_user_and_password5.png)
 
-![[Screen Shot 2022-03-17 at 3.52.18 PM.png]]
+![[set_up_user_and_password6.png]](../../pictures/set_up_user_and_password6.png)
 
-![[Screen Shot 2022-03-17 at 3.54.20 PM.png]]
+![[partition_disks1.png]](../../pictures/partition_disks1.png)
 
-![[Screen Shot 2022-03-17 at 3.54.54 PM.png]]
+![[partition_disks2.png]](../../pictures/partition_disks2.png)
 
-![[Screen Shot 2022-03-18 at 4.09.25 PM.png]]
+![[partition_disks3.png]](../../pictures/partition_disks3.png)
 

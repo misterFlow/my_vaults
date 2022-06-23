@@ -4,12 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "be1f0038e3ca9e18",
+        "id": "fc9ce4dcc6245fe5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "programming/environement/Github.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "158a215c0de9b0de",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "programming/C code/variable arguments function.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215
+    "width": 300
   },
   "right": {
     "id": "eff5a9a9fee75209",
@@ -87,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "be1f0038e3ca9e18",
+  "active": "fc9ce4dcc6245fe5",
   "lastOpenFiles": [
     "programming/environement/Github.md",
+    "programming/42/PushSwapFromPVandamme.md",
+    "programming/42/PushSwap.md",
     "README.md",
-    "programming/environement/PowerShell.md",
-    "programming/environement/environement.md",
-    "programming/environement/Generalities.md",
-    "programming/environement/WSL2.md",
-    "programming/environement/Ubunto 20.04 LTS.md",
-    "programming/42/GetNextLine.md",
     "conflict-files-obsidian-git.md",
-    "programming/42/Born2BeRoot/exam.md"
+    "programming/C code/variable arguments function.md",
+    "programming/C code/Variable.md",
+    "programming/C code/Ternary Operators.md",
+    "programming/C code/Switch.md",
+    "programming/C code/pointers.md"
   ]
 }

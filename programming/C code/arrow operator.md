@@ -2,4 +2,4 @@
 
 An arrow operator `->` is deferencing a pointer variable (left of the arrow)  and then accessing one of its structure elements.
 
-![[Pasted image 20220223114151.png]]
+![[arrow_operator_and_structure.png.png]](../pictures/arrow_operator_and_structure.png)
