@@ -239,3 +239,11 @@ RETURN VALUE
 file "coucou.txt" :
 
 ![coucou.png](../../pictures/coucou.png)
+
+file "result.txt" -> to save output as a number in this file
+
+```js
+cat coucou.txt | wc -l > result.txt
+```
+
+this will write "3" in "result.txt" as 
