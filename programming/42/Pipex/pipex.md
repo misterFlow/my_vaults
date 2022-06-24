@@ -16,7 +16,8 @@ youtube CodeVault: https://www.youtube.com/watch?v=6xbLgZpOBi8
 
 
 
-## function fork(): 
+## function fork()
+
 NAME
 
        fork - create a child process
@@ -38,6 +39,7 @@ RETURN VALUE
 
 
 ## function open()
+
 NAME
 
        open, openat, creat - open and possibly create a file
@@ -130,6 +132,7 @@ function find_path()
     This command is used to find a directory containing the named file. A cache entry, or a normal variable if NO_CACHE is specified, named by <VAR> is created to store the result of this command. If the file in a directory is found the result is stored in the variable and the search will not be repeated unless the variable is cleared. If nothing is found, the result will be <VAR>-NOTFOUND.
 
 ## functions wait(), waitpid()
+
 Name
 
        wait, waitpid - wait for a child process to stop or terminate
@@ -160,3 +163,74 @@ Synopsis
 Return Value
 
        If wait() or waitpid() returns because the status of a child process is available, these functions shall return a value equal to the process ID of the child process for which status is reported. If wait() or waitpid() returns due to the delivery of a signal to the calling process, -1 shall be returned and errno set to [EINTR]. If waitpid() was invoked with WNOHANG set in options, it has at least one child process specified by pid for which status is not available, and status is not available for any process specified by pid, 0 is returned. Otherwise, (pid_t)-1 shall be returned, and errno set to indicate the error.
+
+## function execev()
+
+Name
+
+       execve - execute program
+
+Synopsis
+
+       #include <unistd.h>
+
+        int execve(const char *pathname, char *const argv[], char *const envp[]);
+
+Description
+
+       execve() executes the program pointed to by filename. filename must be either a binary executable, or a script starting with a line of the form:
+
+       #! interpreter [optional-arg]
+       For details of the latter case, see "Interpreter scripts" below.
+       argv is an array of argument strings passed to the new program. By convention, the first of these strings should contain the filename associated with the file being executed. envp is an array of strings, conventionally of the form key=value, which are passed as environment to the new program. Both argv and envp must be terminated by a NULL pointer. The argument vector and environment can be accessed by the called program's main function, when it is defined as:
+
+              int main(int argc, char *argv[], char *envp[])
+       execve() does not return on success, and the text, data, bss, and stack of the calling process are overwritten by that of the program loaded.
+
+## function dup2()
+
+NAME
+
+       dup, dup2, dup3 - duplicate a file descriptor
+
+SYNOPSIS
+
+       #include <unistd.h>
+
+       int dup(int oldfd);
+       int dup2(int oldfd, int newfd);
+
+DESCRIPTION
+
+       The dup() system call allocates a new file descriptor that refers to the same open file description as the descriptor oldfd.
+       (For an explanation of open file descriptions, see open(2).)
+       The new file descriptor number is guaranteed to be the lowest-numbered file descriptor that was unused in the calling process.
+
+       After a successful return, the old and new file descriptors may be used interchangeably.  Since the two file descriptors refer to the same open file description, they share file offset and file status flags; for example, if the file offset is modified by using lseek(2) on one of the file descriptors, the offset is also changed for the other file descriptor.
+
+       The two file descriptors do not share file descriptor flags (the close-on-exec flag).  The close-on-exec flag (FD_CLOEXEC; see fcntl(2)) for the duplicate descriptor is off.
+
+       dup2()
+       The dup2() system call performs the same task as dup(), but instead of using the lowest-numbered unused file descriptor, it uses the file descriptor number specified in newfd.  In other words, the file descriptor newfd is adjusted so that it now refers to the same open file description as oldfd.
+
+       If the file descriptor newfd was previously open, it is closed before being reused; the close is performed silently (i.e., any errors during the close are not reported by dup2()).
+
+       The steps of closing and reusing the file descriptor newfd are performed atomically.  This is important, because trying to implement equivalent functionality using close(2) and dup() would be subject to race conditions, whereby newfd might be reused between the two steps.  Such reuse could happen because the main program is interrupted by a signal handler that allocates a file descriptor, or because a parallel thread allocates a file descriptor.
+
+       Note the following points:
+
+       *  If oldfd is not a valid file descriptor, then the call fails, and newfd is not closed.
+
+       *  If oldfd is a valid file descriptor, and newfd has the same value as oldfd, then dup2() does nothing, and returns newfd.
+
+       dup3()
+       dup3() is the same as dup2(), except that:
+
+       *  The caller can force the close-on-exec flag to be set for the new file descriptor by specifying O_CLOEXEC in flags.  See the description of the same flag in open(2) for reasons why this may be useful.
+
+       *  If oldfd equals newfd, then dup3() fails with the error EINVAL.
+
+RETURN VALUE
+
+       On success, these system calls return the new file descriptor.
+       On error, -1 is returned, and errno is set to indicate the error.
