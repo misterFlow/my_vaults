@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/environement/Github.md",
+            "file": "programming/42/Pipex/pipex.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/environement/Github.md",
+                "file": "programming/42/Pipex/pipex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,8 @@
   },
   "active": "d2ad1967b3dde528",
   "lastOpenFiles": [
-    "programming/environement/Github.md",
     "programming/42/Pipex/pipex.md",
+    "programming/environement/Github.md",
     "README.md",
     "programming/pictures/pipex1.png",
     "programming/pictures/Screen Shot 2022-04-12 at 7.05.30 PM.png",
