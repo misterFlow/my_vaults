@@ -237,3 +237,5 @@ RETURN VALUE
 
 
 file "coucou.txt" :
+
+![coucou.png](../../pictures/coucou.png)
