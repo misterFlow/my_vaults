@@ -2,6 +2,8 @@
 
 explication: https://csnotes.medium.com/pipex-tutorial-42-project-4469f5dd5901
 
+explication github Eddy42: https://github.com/widium/pipex
+
 github (simple) : https://codeberg.org/UncleReaton/pipex
 
 github (complex): https://github.com/tolmvad/pipex
