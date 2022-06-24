@@ -245,5 +245,22 @@ file "result.txt" -> to save output as a number in this file
 ```js
 cat coucou.txt | wc -l > result.txt
 ```
+this will write "3" in "result.txt" as there are 3 lines in file "coucou.txt"
 
-this will write "3" in "result.txt" as 
+this command:
+```js
+< coucou.txt ls -l | wc -l > result.tx
+```
+or this one:
+```js
+./pipex coucou.txt "ls -l" "wc -l" result
+```
+should give the line count ("wc -l") of the list files command ("ls -l") of the repository we are in
+same as below from repository:
+```js
+ls -l | wc -l
+```
+
+the answer is"8"
+because we have 8 lines displayed in terminal when calling "ls -l"
+![pipex1.png](../../pictures/pipex1.png)
