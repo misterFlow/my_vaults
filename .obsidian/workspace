@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "fc9ce4dcc6245fe5",
+        "id": "be1f0038e3ca9e18",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/environement/Github.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "158a215c0de9b0de",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "programming/C code/variable arguments function.md",
+            "file": "programming/42/pipex.md",
             "mode": "source",
             "source": false
           }
@@ -65,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 215
   },
   "right": {
     "id": "eff5a9a9fee75209",
@@ -81,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/environement/Github.md",
+                "file": "programming/42/pipex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fc9ce4dcc6245fe5",
+  "active": "be1f0038e3ca9e18",
   "lastOpenFiles": [
+    "programming/42/pipex.md",
     "programming/environement/Github.md",
-    "programming/42/PushSwapFromPVandamme.md",
-    "programming/42/PushSwap.md",
     "README.md",
-    "conflict-files-obsidian-git.md",
-    "programming/C code/variable arguments function.md",
-    "programming/C code/Variable.md",
-    "programming/C code/Ternary Operators.md",
-    "programming/C code/Switch.md",
-    "programming/C code/pointers.md"
+    "programming/environement/PowerShell.md",
+    "programming/environement/environement.md",
+    "programming/environement/Generalities.md",
+    "programming/environement/WSL2.md",
+    "programming/environement/Ubunto 20.04 LTS.md",
+    "programming/42/GetNextLine.md",
+    "conflict-files-obsidian-git.md"
   ]
 }
