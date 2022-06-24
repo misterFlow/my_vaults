@@ -39,9 +39,9 @@ If too many arguments entered then the extra ones will be ignored
 If too few arguments entered then we got garbage
 ![[Pasted image 20220222142447.png]] ![[Pasted image 20220222142608.png]]
 
-![[stdarg1.jpg]]
+![[stdarg1.jpg]](../pictures/stdarg1.jpg)
 
-![[stdarg2.jpg]]
+![[stdarg2.jpg]](../pictures/stdarg2.jpg)
 
 
 
