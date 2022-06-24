@@ -14,8 +14,7 @@ github (complex): https://github.com/tolmvad/pipex
 
 youtube CodeVault: https://www.youtube.com/watch?v=6xbLgZpOBi8
 
-function fork():
-
+## function fork(): 
 NAME
 
        fork - create a child process
@@ -36,8 +35,7 @@ RETURN VALUE
        On success, the PID of the child process is returned in the parent, and 0 is returned in the child.  On failure, -1 is returned in the parent, no child process is created, and errno is set to indicate the error.
 
 
-function open()
-
+## function open()
 NAME
 
        open, openat, creat - open and possibly create a file
@@ -129,8 +127,7 @@ function find_path()
 
     This command is used to find a directory containing the named file. A cache entry, or a normal variable if NO_CACHE is specified, named by <VAR> is created to store the result of this command. If the file in a directory is found the result is stored in the variable and the search will not be repeated unless the variable is cleared. If nothing is found, the result will be <VAR>-NOTFOUND.
 
-functions wait(), waitpid()
-
+## functions wait(), waitpid()
 Name
 
        wait, waitpid - wait for a child process to stop or terminate
