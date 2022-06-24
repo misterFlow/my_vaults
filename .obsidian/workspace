@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/42/pipex.md",
+            "file": "programming/42/Pipex/pipex.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/42/pipex.md",
+                "file": "programming/42/Pipex/pipex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "be1f0038e3ca9e18",
   "lastOpenFiles": [
+    "programming/42/Pipex/pipex.md",
+    "programming/42/Pipex/pipex_simple.md",
     "programming/42/pipex.md",
     "programming/environement/Github.md",
     "README.md",
@@ -96,8 +98,6 @@
     "programming/environement/environement.md",
     "programming/environement/Generalities.md",
     "programming/environement/WSL2.md",
-    "programming/environement/Ubunto 20.04 LTS.md",
-    "programming/42/GetNextLine.md",
-    "conflict-files-obsidian-git.md"
+    "programming/environement/Ubunto 20.04 LTS.md"
   ]
 }
