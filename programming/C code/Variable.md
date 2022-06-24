@@ -1,13 +1,17 @@
 [[C code]]
 
 type of variable
-![[Pasted image 20220127172011.png]]
+
+![[type_variable.png]](../pictures/type_variable.png)
 
 variable type in "printf"
-![[Pasted image 20220127172518.png]]
+
+![[printf_variables.png]](../pictures/printf_variables.png)
 
 reserved symbols
-![[Pasted image 20220127172643.png]]
+
+![[reserved_symbols.png]](../pictures/reserved_symbols.png)
 
 order of operations
-![[Pasted image 20220128112052.png]]
+
+![[operations_order.png]](../pictures/operations_order.png)
