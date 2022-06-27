@@ -18,7 +18,7 @@ Les instructions suivantes existent;
     rrb (reverse rotate B) : décale d'une position vers le bas tous les éléments de la pile B, le dernier élément devenant le premier
     rrr : rra et rrb en même temps
 
-![[pushswap_instructions.png]](../pictures/pushswap_instructions.png)
+![[pushswap_instructions.png]](../../pictures/pushswap_instructions.png)
 
 Dans le terminal il faut appeler le fichier "push_swap" suivi d'une suite d'entiers.
 "./push_swap" 5 4 1 2 3
@@ -27,13 +27,13 @@ Pour tester mon algorythme, il faut créer un deuxième executable "checker"
 "./push_swap" 5 4 1 2 3 | ./checker 5 4 1 2 3
 Qui rendra "OK" ou "KO" selon si "push_swap" fonctionne
 
-![[checker1.png]](../pictures/checker1.png)
+![[checker1.png]](../../pictures/checker1.png)
 
-![[checker2.png]](../pictures/checker2.png)
+![[checker2.png]](../../pictures/checker2.png)
 
-![[checker3.png]](../pictures/checker3.png)
+![[checker3.png]](../../pictures/checker3.png)
 
-![[checker4.png]](../pictures/checker4.png)
+![[checker4.png]](../../pictures/checker4.png)
 
 source1 : <https://medium.com/@jamierobertdawson/push-swap-the-least-amount-of-moves-with-two-stacks-d1e76a71789a>
 
