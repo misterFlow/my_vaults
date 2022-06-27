@@ -26,13 +26,13 @@ We need to use 3 different macros;
 - the type of argument (only self promoting types i.e. "int" "double" "pointer" are ok but not "char" "short" " float")
 `va_end` is required to end the process, it takes the `va_list` variable as an argument
 
-![[Pasted image 20220222140949.png]]
+![[arg_var1.png]](../pictures/arg_var1.png)
 
-![[Pasted image 20220222141636.png]]
+![[arg_var2png]](../pictures/arg_var2.png)
 
-![[Pasted image 20220222142304.png]]
+![[arg_var3.png]](../pictures/arg_var3.png)
 
-![[Pasted image 20220222142146.png]]
+![[arg_var4.png]](../pictures/arg_var4.png)
 
 If too many arguments entered then the extra ones will be ignored
 ![[Pasted image 20220222142712.png]]
