@@ -2,42 +2,42 @@
 
 Kernel
 https://en.wikipedia.org/wiki/Kernel_(operating_system)
-![[Pasted image 20220122230517.png]]
+![[kernel1.png]](../pictures/kernel1.png)
 
 Linux Kernel
 https://en.wikipedia.org/wiki/Linux_kernel
-![[Pasted image 20220122230706.png]]
+![[kernel2.png]](../pictures/docker2.png)
 
 Linux
 https://en.wikipedia.org/wiki/Linux
-![[Pasted image 20220122231335.png]]
+![[linux1.png]](../pictures/linux1.png)
 
 Linux Distribution
 https://en.wikipedia.org/wiki/Linux_distribution
-![[Pasted image 20220122230810.png]]
+![[linux2.png]](../pictures/linux2.png)
 
 Tux
 https://en.wikipedia.org/wiki/Tux_(mascot)
-![[Pasted image 20220122231238.png]]
-![[Pasted image 20220122231219.png]]
+![[tux1.png]](../pictures/tux1.png)
+![[tux2.png]](../pictures/tux2.png)
 
 Unix
 https://en.wikipedia.org/wiki/Unix
-![[Pasted image 20220122230940.png]]
+![[unix1.png]](../pictures/unix1.png)
 
 Unix-Like
 https://en.wikipedia.org/wiki/Unix-like
-![[Pasted image 20220122231526.png]]
+![[unix2.png]](../pictures/unix2.png)
 
 GNU
 https://en.wikipedia.org/wiki/GNU
-![[Pasted image 20220122232030.png]]
-![[Pasted image 20220122232047.png]]
+![[gnu1.png]](../pictures/gnu1.png)
+![[gnu2.png]](../pictures/gnu2.png)
 
 Debian
 https://en.wikipedia.org/wiki/Debian
-![[Pasted image 20220122232501.png]]
+![[debian1.png]](../pictures/debian1.png)
 
 SUDO
 https://en.wikipedia.org/wiki/Sudo
-![[Pasted image 20220122232614.png]]
+![[sudo1.png]](../pictures/sudo1.png)

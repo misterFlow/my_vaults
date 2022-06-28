@@ -2,20 +2,20 @@
 
 OS-Level Virtualization
 https://en.wikipedia.org/wiki/OS-level_virtualization
-![[Pasted image 20220122233402.png]]
+![[containers1.png]](../pictures/containers1.png)
 
 LXC
 https://en.wikipedia.org/wiki/LXC
-![[Pasted image 20220122233542.png]]
+![[containers2.png]](../pictures/containers2.png)
 
 Docker
 https://en.wikipedia.org/wiki/Docker_(software)
-![[Pasted image 20220122233626.png]]
+![[containers3.png]](../pictures/containers3.png)
 
 Hyper-V
 https://en.wikipedia.org/wiki/Hyper-V
-![[Pasted image 20220122233701.png]]
+![[containers4.png]](../pictures/containers4.png)
 
 Kubernetes
 https://en.wikipedia.org/wiki/Kubernetes
-![[Pasted image 20220122233748.png]]
+![[containers5.png]](../pictures/containers5.png)
