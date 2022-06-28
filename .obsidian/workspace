@@ -4,18 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "be1f0038e3ca9e18",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "programming/42/Minitalk/Generalities.md",
-            "mode": "preview",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "8db31fbe22cb469e",
         "type": "leaf",
         "state": {
@@ -103,13 +91,13 @@
   "lastOpenFiles": [
     "programming/42/Minitalk/minitalk_subject.md",
     "conflict-files-obsidian-git.md",
-    "README.md",
+    "programming/environement/Github.md",
     "programming/42/Minitalk/Generalities.md",
+    "README.md",
     "programming/42/Minitalk/minitalk.md",
     "Generalities.md",
     "programming/42/Pipex/pipex.md",
     "programming/42/Pipex/pipex_simple.md",
-    "programming/42/pipex.md",
-    "programming/environement/Github.md"
+    "programming/42/pipex.md"
   ]
 }
