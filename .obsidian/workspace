@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/42/Minitalk/minitalk_subject.md",
+            "file": "programming/42/Minitalk/minitalk.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/42/Minitalk/minitalk_subject.md",
+                "file": "programming/42/Minitalk/minitalk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,12 +89,12 @@
   },
   "active": "8db31fbe22cb469e",
   "lastOpenFiles": [
+    "programming/42/Minitalk/minitalk.md",
+    "programming/42/Minitalk/Generalities.md",
     "programming/42/Minitalk/minitalk_subject.md",
     "conflict-files-obsidian-git.md",
     "programming/environement/Github.md",
-    "programming/42/Minitalk/Generalities.md",
     "README.md",
-    "programming/42/Minitalk/minitalk.md",
     "Generalities.md",
     "programming/42/Pipex/pipex.md",
     "programming/42/Pipex/pipex_simple.md",
