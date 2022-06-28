@@ -6,5 +6,5 @@ github simple 2: https://github.com/Liudok/Minitalk-42
 
 signaux UNIX 1: https://www.linuxtricks.fr/wiki/signaux-unix-unix-signals
 
-signaux UNIX 2: 
+signaux UNIX 2: https://www.clicours.com/exemples-de-gestion-des-signaux-sous-unix/
 
