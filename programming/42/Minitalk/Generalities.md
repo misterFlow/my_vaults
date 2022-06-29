@@ -17,9 +17,13 @@
     RETURN VALUE
         On success, the number of bytes written is returned.  On error, -1 is returned, and errno is set to indicate the error.
 
-## - ft_printf et tout équivalent que VOUS avez codé
+## signal handler
+
+    a signal handler is a routine that can be specified or registered and which will be executed once a signal is sent from this process, if no signal handler are registered, the default signal handler is executed.
 
 ## - signal
+    signal() : https://en.wikipedia.org/wiki/Signal_(IPC)
+    C signal handling : https://en.wikipedia.org/wiki/C_signal_handling
 
     NAME
        signal - ANSI C signal handling
@@ -47,7 +51,8 @@
        The signals SIGKILL and SIGSTOP cannot be caught or ignored.
 
     RETURN VALUE
-        signal() returns the previous value of the signal handler On failure, it returns SIG_ERR, and errno is set to indicate the error.
+        signal() returns the previous value of the signal handler.
+        On failure, it returns SIG_ERR, and errno is set to indicate the error.
 
 ## - sigemptyset
 
@@ -172,6 +177,19 @@
     Errors
         These functions are always successful.
 
+## pid_t getpid()
+
+    The pid_t data type represents process IDs. You can get the process ID of a process by calling getpid. The function getppid returns the process ID of the parent of the current process (this is also known as the parent process ID). Your program should include the header files `unistd.h' and `sys/types.h' to use these functions.
+
+    Data Type: pid_t
+    The pid_t data type is a signed integer type which is capable of representing a process ID. In the GNU library, this is an int.
+
+    Function: pid_t getpid (void)
+    The getpid function returns the process ID of the current process.
+
+    Function: pid_t getppid (void)
+    The getppid function returns the process ID of the parent of the current process.
+
 ## -  malloc
     Name
         malloc, free, calloc, realloc - allocate and free dynamic memory
@@ -287,3 +305,4 @@ Description
 
     Return Value
         The exit() function does not return.
+
