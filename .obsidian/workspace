@@ -9,11 +9,40 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/environement/Github.md",
+            "file": "programming/42/Makefile.md",
             "mode": "source",
             "source": false
           }
         }
+      },
+      {
+        "id": "d0b0fa9c7d8893b9",
+        "type": "split",
+        "children": [
+          {
+            "id": "82e3b3a837f35317",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "makefile1.png"
+              }
+            }
+          },
+          {
+            "id": "45311fcd1703ea19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "programming/C code/pointers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -53,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215
+    "width": 514.5
   },
   "right": {
     "id": "eff5a9a9fee75209",
@@ -69,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/environement/Github.md",
+                "file": "makefile1.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +116,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d348b80ac6e13517",
+  "active": "82e3b3a837f35317",
   "lastOpenFiles": [
-    "programming/42/Makefile 1.md",
+    "makefile2.png",
+    "makefile1.png",
+    "programming/pictures/Screen Shot 2022-04-12 at 7.03.53 PM.png",
+    "programming/pictures/Pasted image 20220130123029.png",
     "programming/42/Makefile.md",
-    "programming/environement/Github.md",
-    "conflict-files-obsidian-git.md",
-    "programming/42/Minitalk/minitalk_subject.md",
-    "programming/42/Minitalk/minitalk.md",
+    "programming/C code/pointers.md",
+    "programming/C code/C code.md",
     "programming/42/Minitalk/Generalities.md",
-    "programming/42/PushSwap/PushSwapFromPVandamme.md",
-    "programming/C code/argC argV.md",
-    "programming/42/holygraph42.md"
+    "programming/environement/Github.md",
+    "programming/42/Makefile 1.md"
   ]
 }
