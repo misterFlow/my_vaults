@@ -2,7 +2,7 @@
 
 # Makefile
 
-![[Makefile.png]](../pictures/Makefile.png)
+![[Makefile.png]]
 
 From https://www.youtube.com/watch?v=-riHEHGP2DU&t=2234s
 
