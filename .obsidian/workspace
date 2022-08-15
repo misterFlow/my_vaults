@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "05cf1352ff9ff599",
+        "id": "d348b80ac6e13517",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -87,8 +87,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "05cf1352ff9ff599",
+  "active": "d348b80ac6e13517",
   "lastOpenFiles": [
+    "programming/42/Makefile 1.md",
     "programming/42/Makefile.md",
     "programming/environement/Github.md",
     "conflict-files-obsidian-git.md",
@@ -97,7 +98,6 @@
     "programming/42/Minitalk/Generalities.md",
     "programming/42/PushSwap/PushSwapFromPVandamme.md",
     "programming/C code/argC argV.md",
-    "programming/42/holygraph42.md",
-    "programming/C code/variable arguments function.md"
+    "programming/42/holygraph42.md"
   ]
 }
