@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/42/Makefile.md",
+            "file": "programming/42/Minitalk/Generalities.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/42/Makefile.md",
+                "file": "programming/42/Minitalk/Generalities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,8 @@
   },
   "active": "d348b80ac6e13517",
   "lastOpenFiles": [
-    "programming/C code/pointers.md",
     "programming/42/Makefile.md",
+    "programming/C code/pointers.md",
     "programming/pictures/makefile1.png",
     "programming/pictures/makefile2.png",
     "programming/pictures/Screen Shot 2022-04-12 at 7.03.53 PM.png",
