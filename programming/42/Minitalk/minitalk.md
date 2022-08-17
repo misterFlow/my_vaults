@@ -8,14 +8,14 @@ github Hajar: https://github.com/0xdeadabed/minitalk
 
 signaux UNIX 1: https://www.linuxtricks.fr/wiki/signaux-unix-unix-signals
 
-<<<<<<< HEAD
+
 signaux UNIX 2: https://www.clicours.com/exemples-de-gestion-des-signaux-sous-unix/
-=======
+
 signaux UNIX 2: https://fr.wikipedia.org/wiki/Signal_(informatique)
 
-<<<<<<< HEAD
->>>>>>> origin/master
-=======
+
+origin/master
+
 explication du code binaire chez Angelo:
 
 ![[minitalk_code_binaire1.png]](../../pictures/minitalk_code_binaire1.png)

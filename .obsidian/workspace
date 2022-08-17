@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/42/Minitalk/Generalities.md",
+            "file": "programming/42/Minitalk/minitalk.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/42/Minitalk/Generalities.md",
+                "file": "programming/42/Minitalk/minitalk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "d348b80ac6e13517",
   "lastOpenFiles": [
+    "programming/42/Minitalk/minitalk_subject.md",
+    "programming/42/Minitalk/minitalk.md",
+    "programming/42/Minitalk/Generalities.md",
     "programming/42/Makefile.md",
     "programming/C code/pointers.md",
     "programming/pictures/makefile1.png",
     "programming/pictures/makefile2.png",
     "programming/pictures/Screen Shot 2022-04-12 at 7.03.53 PM.png",
     "programming/pictures/Pasted image 20220130123029.png",
-    "programming/C code/C code.md",
-    "programming/42/Minitalk/Generalities.md",
-    "programming/environement/Github.md",
-    "programming/42/Makefile 1.md"
+    "programming/C code/C code.md"
   ]
 }
