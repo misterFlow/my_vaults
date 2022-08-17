@@ -6,6 +6,8 @@ github simple 2: https://github.com/Liudok/Minitalk-42
 
 github Hajar: https://github.com/0xdeadabed/minitalk
 
+github pvaladares (with images and explanaition): https://github.com/pvaladares/42cursus-02-minitalk
+
 signaux UNIX 1: https://www.linuxtricks.fr/wiki/signaux-unix-unix-signals
 
 
@@ -93,7 +95,7 @@ int	main(void)
 
 	pid = getpid();                 //getpid() returns the process ID of the current process
 	ft_printf("PID: %d\n", pid);
-	signal(SIGUSR1, convert_msg);   //signal() sets the disposition of hte signum "SIGUSR1" which is a default action terminating the user-defined signal 1, to the handler (here function "convert_msg")
+	signal(SIGUSR1, convert_msg);   //signal() sets the disposition of the signum "SIGUSR1" which is a default action terminating the user-defined signal 1, to the handler (here function "convert_msg")
 	signal(SIGUSR2, convert_msg);   //signal() sets the disposition of hte signum "SIGUSR2" which is a default action terminating the user-defined signal 2, to the handler (here function "convert_msg")
 	while (1)                       // this "while" allows the process to pause
 		pause();
@@ -119,5 +121,5 @@ void	convert_msg(int signum)
 	}
 }
 ```
->>>>>>> 30200c887ac93ee5c5fc3a025bd12b0a006f458c
+30200c887ac93ee5c5fc3a025bd12b0a006f458c
 
