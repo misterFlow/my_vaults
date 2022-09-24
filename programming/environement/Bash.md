@@ -4,4 +4,12 @@ Pour connaitre quel est mon Bash;
 ```js
 echo $0
 ```
+Pour connaitre le type de fichier;
+```js
+type nom_fichier
+```
+ou
+```js
+type nom_commande
+```
 
