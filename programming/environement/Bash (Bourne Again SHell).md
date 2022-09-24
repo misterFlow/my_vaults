@@ -32,4 +32,8 @@ Pour changer les droits d'accès à un fichier (change mode);
 ```js
 chmod
 ```
+Pour illustrer le chemin de recherche des executable (PATH);
+```js
+echo $PATH
+```
 
