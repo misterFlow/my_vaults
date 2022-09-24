@@ -28,4 +28,8 @@ pour afficher le format long (oermissions, propirétaire, taille, date modif.);
 ```js
 ls -l
 ```
+Pour changer les droits d'accès à un fichier (change mode);
+```js
+chmod
+```
 
