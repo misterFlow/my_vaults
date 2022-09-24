@@ -1,10 +1,14 @@
 Bash est un Shell, un interpreteur de commande pour Linux mais aussi intégré dans Windows 10, permet l'exécution de commandes mais aussi l'élaboration de script.
 
-Pour connaitre quel est mon Bash;
+Pour savoir où je me trouve "Print Working Directory";
+```js
+pwd
+```
+Pour connaître quel est mon Bash;
 ```js
 echo $0
 ```
-Pour connaitre le type de fichier;
+Pour connaître le type de fichier;
 ```js
 type nom_fichier
 ```
