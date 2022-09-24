@@ -20,4 +20,12 @@ Pour lister le contenu d'un fichier répertoire;
 ```js
 ls
 ```
+avec les fichiers cachés;
+```js
+ls -a
+```
+pour afficher le format long (oermissions, propirétaire, taille, date modif.);
+```js
+ls -l
+```
 
