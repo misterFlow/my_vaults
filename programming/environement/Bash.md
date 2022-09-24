@@ -1,0 +1,1 @@
+Bash est un Shell, un interpreteur de commande pour Linux mais aussi intégré dans Windows 10
