@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programming/42/Minitalk/minitalk_subject.md",
+            "file": "programming/42/Minitalk/minitalk.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/42/Minitalk/minitalk_subject.md",
+                "file": "programming/42/Minitalk/minitalk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,10 +89,10 @@
   },
   "active": "d348b80ac6e13517",
   "lastOpenFiles": [
+    "programming/42/Minitalk/minitalk_subject.md",
     "programming/42/holygraph42.md",
     "programming/42/isalpha.md",
     "programming/environement/Bash (Bourne Again SHell).md",
-    "programming/42/Minitalk/minitalk_subject.md",
     "programming/42/Minitalk/minitalk.md",
     "programming/42/Minitalk/Generalities.md",
     "programming/42/Makefile.md",
